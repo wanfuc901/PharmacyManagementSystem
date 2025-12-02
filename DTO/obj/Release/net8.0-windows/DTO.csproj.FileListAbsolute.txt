@@ -1,0 +1,192 @@
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\DTO.exe
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\DTO.deps.json
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\DTO.runtimeconfig.json
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\DTO.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\DTO.pdb
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.Form1.resources
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.csproj.GenerateResource.cache
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.AssemblyInfoInputs.cache
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.AssemblyInfo.cs
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.csproj.CoreCompileInputs.cache
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\refint\DTO.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.pdb
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.genruntimeconfig.cache
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\ref\DTO.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\DTO.exe
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\DTO.deps.json
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\DTO.runtimeconfig.json
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\DTO.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\DTO.pdb
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.Form1.resources
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.csproj.GenerateResource.cache
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.GeneratedMSBuildEditorConfig.editorconfig
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.AssemblyInfoInputs.cache
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.AssemblyInfo.cs
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.csproj.CoreCompileInputs.cache
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\refint\DTO.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.pdb
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.genruntimeconfig.cache
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\ref\DTO.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\DTO.exe
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\DTO.deps.json
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\DTO.runtimeconfig.json
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\DTO.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\DTO.pdb
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.Form1.resources
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.csproj.GenerateResource.cache
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.AssemblyInfoInputs.cache
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.AssemblyInfo.cs
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.csproj.CoreCompileInputs.cache
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\refint\DTO.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.pdb
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.genruntimeconfig.cache
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\ref\DTO.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(15.10 21.26)\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\DTO.exe
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(15.10 21.26)\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\DTO.deps.json
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(15.10 21.26)\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\DTO.runtimeconfig.json
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(15.10 21.26)\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\DTO.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(15.10 21.26)\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\DTO.pdb
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(15.10 21.26)\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.Form1.resources
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(15.10 21.26)\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.csproj.GenerateResource.cache
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(15.10 21.26)\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(15.10 21.26)\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.AssemblyInfoInputs.cache
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(15.10 21.26)\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.AssemblyInfo.cs
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(15.10 21.26)\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.csproj.CoreCompileInputs.cache
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(15.10 21.26)\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(15.10 21.26)\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\refint\DTO.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(15.10 21.26)\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.pdb
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(15.10 21.26)\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.genruntimeconfig.cache
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(15.10 21.26)\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\ref\DTO.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\DTO.exe
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\DTO.deps.json
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\DTO.runtimeconfig.json
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\DTO.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\DTO.pdb
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.Form1.resources
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.csproj.GenerateResource.cache
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.AssemblyInfoInputs.cache
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.AssemblyInfo.cs
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.csproj.CoreCompileInputs.cache
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\refint\DTO.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.pdb
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.genruntimeconfig.cache
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\ref\DTO.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\Microsoft.ReportViewer.Common.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\Microsoft.ReportViewer.Design.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\Microsoft.SqlServer.Types.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.csproj.AssemblyReference.cache
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\obj\Release\net8.0-windows\DTO.csproj.Up2Date
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DTO\bin\Release\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\DTO.exe
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\DTO.deps.json
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\DTO.runtimeconfig.json
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\DTO.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\DTO.pdb
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\Microsoft.ReportViewer.Common.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\Microsoft.ReportViewer.Design.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\Microsoft.SqlServer.Types.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\bin\Release\net8.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\obj\Release\net8.0-windows\DTO.csproj.AssemblyReference.cache
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\obj\Release\net8.0-windows\DTO.Form1.resources
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\obj\Release\net8.0-windows\DTO.csproj.GenerateResource.cache
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\obj\Release\net8.0-windows\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\obj\Release\net8.0-windows\DTO.AssemblyInfoInputs.cache
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\obj\Release\net8.0-windows\DTO.AssemblyInfo.cs
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\obj\Release\net8.0-windows\DTO.csproj.CoreCompileInputs.cache
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\obj\Release\net8.0-windows\DTO.csproj.Up2Date
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\obj\Release\net8.0-windows\DTO.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\obj\Release\net8.0-windows\refint\DTO.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\obj\Release\net8.0-windows\DTO.pdb
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\obj\Release\net8.0-windows\DTO.genruntimeconfig.cache
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DTO\obj\Release\net8.0-windows\ref\DTO.dll

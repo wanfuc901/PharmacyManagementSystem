@@ -1,0 +1,440 @@
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DTO.deps.json
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DTO.runtimeconfig.json
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DTO.exe
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DAO.exe
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DAO.deps.json
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DAO.runtimeconfig.json
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DAO.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DAO.pdb
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Azure.Core.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Azure.Identity.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Identity.Client.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\System.ClientModel.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\System.Memory.Data.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DTO.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DTO.pdb
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.csproj.AssemblyReference.cache
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.Form1.resources
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.csproj.GenerateResource.cache
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.GeneratedMSBuildEditorConfig.editorconfig
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.AssemblyInfoInputs.cache
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.AssemblyInfo.cs
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.csproj.CoreCompileInputs.cache
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.csproj.Up2Date
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\refint\DAO.dll
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.pdb
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.genruntimeconfig.cache
+E:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\ref\DAO.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DTO.deps.json
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DTO.runtimeconfig.json
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DTO.exe
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DAO.exe
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DAO.deps.json
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DAO.runtimeconfig.json
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DAO.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DAO.pdb
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Azure.Core.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Azure.Identity.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Data.SqlClient.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Extensions.Options.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Extensions.Primitives.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Identity.Client.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.SqlServer.Server.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\System.ClientModel.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\System.Configuration.ConfigurationManager.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\System.Diagnostics.EventLog.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\System.Memory.Data.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DTO.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DTO.pdb
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.csproj.AssemblyReference.cache
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.Form1.resources
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.csproj.GenerateResource.cache
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.GeneratedMSBuildEditorConfig.editorconfig
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.AssemblyInfoInputs.cache
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.AssemblyInfo.cs
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.csproj.CoreCompileInputs.cache
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.csproj.Up2Date
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\refint\DAO.dll
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.pdb
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.genruntimeconfig.cache
+F:\HDT 13.10 19.09\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\ref\DAO.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DTO.deps.json
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DTO.runtimeconfig.json
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DTO.exe
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DAO.exe
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DAO.deps.json
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DAO.runtimeconfig.json
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DAO.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DAO.pdb
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Azure.Core.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Azure.Identity.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Identity.Client.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\System.ClientModel.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\System.Memory.Data.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DTO.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DTO.pdb
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.csproj.AssemblyReference.cache
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.Form1.resources
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.csproj.GenerateResource.cache
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.AssemblyInfoInputs.cache
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.AssemblyInfo.cs
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.csproj.CoreCompileInputs.cache
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.csproj.Up2Date
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\refint\DAO.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.pdb
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.genruntimeconfig.cache
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\ref\DAO.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(15.10 21.26)\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(15.10 21.26)\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\refint\DAO.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(15.10 21.26)\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.pdb
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DTO.deps.json
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DTO.runtimeconfig.json
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DTO.exe
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DAO.exe
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DAO.deps.json
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DAO.runtimeconfig.json
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DAO.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DAO.pdb
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Azure.Core.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Azure.Identity.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\System.ClientModel.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\System.Memory.Data.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DTO.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\DTO.pdb
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.csproj.AssemblyReference.cache
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.Form1.resources
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.csproj.GenerateResource.cache
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.AssemblyInfoInputs.cache
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.AssemblyInfo.cs
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.csproj.CoreCompileInputs.cache
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.csproj.Up2Date
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\refint\DAO.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.pdb
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\DAO.genruntimeconfig.cache
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\obj\Release\net8.0-windows\ref\DAO.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.ReportViewer.Common.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.ReportViewer.Design.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.SqlServer.Types.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\DO_AN_PHAN_MEM_HDT\QL_NhaThuoc(13.10 1h06)\DAO\bin\Release\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\DTO.deps.json
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\DTO.runtimeconfig.json
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\DTO.exe
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\DAO.exe
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\DAO.deps.json
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\DAO.runtimeconfig.json
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\DAO.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\DAO.pdb
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\Azure.Core.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\Azure.Identity.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\Microsoft.Identity.Client.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\Microsoft.ReportViewer.Common.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\Microsoft.ReportViewer.Design.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\Microsoft.SqlServer.Types.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\System.ClientModel.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\System.Memory.Data.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\DTO.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\bin\Release\net8.0-windows\DTO.pdb
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\obj\Release\net8.0-windows\DAO.csproj.AssemblyReference.cache
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\obj\Release\net8.0-windows\DAO.Form1.resources
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\obj\Release\net8.0-windows\DAO.csproj.GenerateResource.cache
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\obj\Release\net8.0-windows\DAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\obj\Release\net8.0-windows\DAO.AssemblyInfoInputs.cache
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\obj\Release\net8.0-windows\DAO.AssemblyInfo.cs
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\obj\Release\net8.0-windows\DAO.csproj.CoreCompileInputs.cache
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\obj\Release\net8.0-windows\DAO.csproj.Up2Date
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\obj\Release\net8.0-windows\DAO.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\obj\Release\net8.0-windows\refint\DAO.dll
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\obj\Release\net8.0-windows\DAO.pdb
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\obj\Release\net8.0-windows\DAO.genruntimeconfig.cache
+D:\STUDIES\DoAnXD_PM_HDT\QL_NhaThuoc(23.11  4.45)\DAO\obj\Release\net8.0-windows\ref\DAO.dll

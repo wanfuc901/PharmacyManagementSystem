@@ -1,0 +1,431 @@
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.AdminMenu.resources
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.ChiTietHoaDon.resources
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.HoaDon.resources
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.KhachHang.resources
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.Login.resources
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.LuaChon.resources
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.MenuA.resources
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.Form1.resources
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.NCC.resources
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.PhieuNhap.resources
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.Properties.Resources.resources
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.Search_Report.resources
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.TonKho.resources
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.UserMenu.resources
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.AssemblyInfo.cs
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.csproj.CoreCompileInputs.cache
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.csproj.AssemblyReference.cache
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.AdminMenu.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.ChiTietHoaDon.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.HoaDon.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.KhachHang.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.Login.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.LuaChon.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.MenuA.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.Form1.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.NCC.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.PhieuNhap.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.Properties.Resources.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.Search_Report.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.TonKho.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.UserMenu.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.csproj.GenerateResource.cache
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.AssemblyInfoInputs.cache
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.AssemblyInfo.cs
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.csproj.CoreCompileInputs.cache
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\BUS.deps.json
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\BUS.runtimeconfig.json
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\DAO.deps.json
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\DAO.runtimeconfig.json
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\DTO.deps.json
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\DTO.runtimeconfig.json
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\DTO.exe
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\DAO.exe
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\BUS.exe
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\QLNhaThuoc.exe
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\QLNhaThuoc.dll.config
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\QLNhaThuoc.deps.json
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\QLNhaThuoc.runtimeconfig.json
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\QLNhaThuoc.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\QLNhaThuoc.pdb
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\RBush.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\BUS.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\DAO.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\DTO.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\BUS.pdb
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\DAO.pdb
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\bin\Debug\net8.0-windows\DTO.pdb
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.csproj.Up2Date
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\obj\Debug\net8.0-windows\refint\QLNhaThuoc.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.pdb
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.genruntimeconfig.cache
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\obj\Debug\net8.0-windows\ref\QLNhaThuoc.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.SignUp.resources
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\BUS.deps.json
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\BUS.runtimeconfig.json
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\DAO.deps.json
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\DAO.runtimeconfig.json
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\DTO.deps.json
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\DTO.runtimeconfig.json
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\DTO.exe
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\DAO.exe
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\BUS.exe
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\QLNhaThuoc.exe
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\QLNhaThuoc.dll.config
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\QLNhaThuoc.deps.json
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\QLNhaThuoc.runtimeconfig.json
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\QLNhaThuoc.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\QLNhaThuoc.pdb
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\RBush.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\BUS.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\DAO.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\DTO.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\BUS.pdb
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\DAO.pdb
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\bin\Debug\net8.0-windows\DTO.pdb
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.csproj.AssemblyReference.cache
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.AdminMenu.resources
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.ChiTietHoaDon.resources
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.HoaDon.resources
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.KhachHang.resources
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.Login.resources
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.LuaChon.resources
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.MenuA.resources
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.Form1.resources
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.NCC.resources
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.PhieuNhap.resources
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.Properties.Resources.resources
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.Search_Report.resources
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.SignUp.resources
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.TonKho.resources
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.UserMenu.resources
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.csproj.GenerateResource.cache
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.AssemblyInfoInputs.cache
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.AssemblyInfo.cs
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.csproj.CoreCompileInputs.cache
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.csproj.Up2Date
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\obj\Debug\net8.0-windows\refint\QLNhaThuoc.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.pdb
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.genruntimeconfig.cache
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\obj\Debug\net8.0-windows\ref\QLNhaThuoc.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.Trade.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.csproj.AssemblyReference.cache
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.ChiTietHoaDon.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.HoaDon.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.KhachHang.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.Login.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.LuaChon.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.MenuA.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.Form1.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.NCC.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.PhieuNhap.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.Properties.Resources.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.Search_Report.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.SignUp.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.TonKho.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.Trade.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.UserMenu.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.csproj.GenerateResource.cache
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.AssemblyInfoInputs.cache
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.AssemblyInfo.cs
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.csproj.CoreCompileInputs.cache
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\obj\Debug\net8.0-windows\refint\QLNhaThuoc.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.pdb
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\BUS.deps.json
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\BUS.runtimeconfig.json
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\DAO.deps.json
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\DAO.runtimeconfig.json
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\DTO.deps.json
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\DTO.runtimeconfig.json
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\DTO.exe
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\DAO.exe
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\BUS.exe
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\QLNhaThuoc.exe
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\QLNhaThuoc.dll.config
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\QLNhaThuoc.deps.json
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\QLNhaThuoc.runtimeconfig.json
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\QLNhaThuoc.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\QLNhaThuoc.pdb
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\RBush.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\BUS.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\DAO.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\DTO.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\BUS.pdb
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\DAO.pdb
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\bin\Debug\net8.0-windows\DTO.pdb
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.csproj.Up2Date
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.genruntimeconfig.cache
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\QLNhaThuoc\obj\Debug\net8.0-windows\ref\QLNhaThuoc.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\BUS.deps.json
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\BUS.runtimeconfig.json
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\DAO.deps.json
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\DAO.runtimeconfig.json
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\DTO.deps.json
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\DTO.runtimeconfig.json
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\DTO.exe
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\DAO.exe
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\BUS.exe
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\QLNhaThuoc.exe
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\QLNhaThuoc.dll.config
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\QLNhaThuoc.deps.json
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\QLNhaThuoc.runtimeconfig.json
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\QLNhaThuoc.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\QLNhaThuoc.pdb
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\RBush.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\BUS.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\DAO.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\DTO.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\BUS.pdb
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\DAO.pdb
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\bin\Debug\net8.0-windows\DTO.pdb
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.csproj.AssemblyReference.cache
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.ChiTietHoaDon.resources
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.HoaDon.resources
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.KhachHang.resources
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.Login.resources
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.LuaChon.resources
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.MenuA.resources
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.Form1.resources
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.NCC.resources
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.PhieuNhap.resources
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.Properties.Resources.resources
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.Search_Report.resources
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.SignUp.resources
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\obj\Debug\net8.0-windows\QL_NhaThuoc.TonKho.resources
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.Trade.resources
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.UserMenu.resources
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.csproj.GenerateResource.cache
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.AssemblyInfoInputs.cache
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.AssemblyInfo.cs
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.csproj.CoreCompileInputs.cache
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.csproj.Up2Date
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\obj\Debug\net8.0-windows\refint\QLNhaThuoc.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.pdb
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.genruntimeconfig.cache
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\obj\Debug\net8.0-windows\ref\QLNhaThuoc.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.AdminMenu.resources
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\QLNhaThuoc\obj\Debug\net8.0-windows\QLNhaThuoc.TaiKhoan.resources

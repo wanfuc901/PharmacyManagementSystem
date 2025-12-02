@@ -1,0 +1,345 @@
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\DTO.deps.json
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\DTO.runtimeconfig.json
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\DTO.exe
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\DAO.exe
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\DAO.deps.json
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\DAO.runtimeconfig.json
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\DAO.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\DAO.pdb
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\DTO.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\bin\Debug\net8.0-windows\DTO.pdb
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\obj\Debug\net8.0-windows\DAO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\obj\Debug\net8.0-windows\DAO.Form1.resources
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\obj\Debug\net8.0-windows\DAO.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\obj\Debug\net8.0-windows\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\obj\Debug\net8.0-windows\DAO.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\obj\Debug\net8.0-windows\DAO.AssemblyInfo.cs
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\obj\Debug\net8.0-windows\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\obj\Debug\net8.0-windows\DAO.csproj.Up2Date
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\obj\Debug\net8.0-windows\DAO.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\obj\Debug\net8.0-windows\refint\DAO.dll
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\obj\Debug\net8.0-windows\DAO.pdb
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\obj\Debug\net8.0-windows\DAO.genruntimeconfig.cache
+C:\Users\Admin\Desktop\QL_NhaThuoc(12.9 1h41)\DAO\obj\Debug\net8.0-windows\ref\DAO.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\DTO.deps.json
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\DTO.runtimeconfig.json
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\DTO.exe
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\DAO.exe
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\DAO.deps.json
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\DAO.runtimeconfig.json
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\DAO.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\DAO.pdb
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\DTO.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\bin\Debug\net8.0-windows\DTO.pdb
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\obj\Debug\net8.0-windows\DAO.csproj.AssemblyReference.cache
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\obj\Debug\net8.0-windows\DAO.Form1.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\obj\Debug\net8.0-windows\DAO.csproj.GenerateResource.cache
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\obj\Debug\net8.0-windows\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\obj\Debug\net8.0-windows\DAO.AssemblyInfoInputs.cache
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\obj\Debug\net8.0-windows\DAO.AssemblyInfo.cs
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\obj\Debug\net8.0-windows\DAO.csproj.CoreCompileInputs.cache
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\obj\Debug\net8.0-windows\DAO.csproj.Up2Date
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\obj\Debug\net8.0-windows\DAO.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\obj\Debug\net8.0-windows\refint\DAO.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\obj\Debug\net8.0-windows\DAO.pdb
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\obj\Debug\net8.0-windows\DAO.genruntimeconfig.cache
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(26.9 12h23)\DAO\obj\Debug\net8.0-windows\ref\DAO.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\DTO.deps.json
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\DTO.runtimeconfig.json
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\DTO.exe
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\DAO.exe
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\DAO.deps.json
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\DAO.runtimeconfig.json
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\DAO.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\DAO.pdb
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\DTO.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\bin\Debug\net8.0-windows\DTO.pdb
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\obj\Debug\net8.0-windows\DAO.csproj.AssemblyReference.cache
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\obj\Debug\net8.0-windows\DAO.Form1.resources
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\obj\Debug\net8.0-windows\DAO.csproj.GenerateResource.cache
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\obj\Debug\net8.0-windows\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\obj\Debug\net8.0-windows\DAO.AssemblyInfoInputs.cache
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\obj\Debug\net8.0-windows\DAO.AssemblyInfo.cs
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\obj\Debug\net8.0-windows\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\obj\Debug\net8.0-windows\DAO.csproj.Up2Date
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\obj\Debug\net8.0-windows\DAO.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\obj\Debug\net8.0-windows\refint\DAO.dll
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\obj\Debug\net8.0-windows\DAO.pdb
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\obj\Debug\net8.0-windows\DAO.genruntimeconfig.cache
+C:\Users\Share\QL_NhaThuoc(29.9 10h22)\DAO\obj\Debug\net8.0-windows\ref\DAO.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\DTO.deps.json
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\DTO.runtimeconfig.json
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\DTO.exe
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\DAO.exe
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\DAO.deps.json
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\DAO.runtimeconfig.json
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\DAO.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\DAO.pdb
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\DTO.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\bin\Debug\net8.0-windows\DTO.pdb
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\obj\Debug\net8.0-windows\DAO.csproj.AssemblyReference.cache
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\obj\Debug\net8.0-windows\DAO.Form1.resources
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\obj\Debug\net8.0-windows\DAO.csproj.GenerateResource.cache
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\obj\Debug\net8.0-windows\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\obj\Debug\net8.0-windows\DAO.AssemblyInfoInputs.cache
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\obj\Debug\net8.0-windows\DAO.AssemblyInfo.cs
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\obj\Debug\net8.0-windows\DAO.csproj.CoreCompileInputs.cache
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\obj\Debug\net8.0-windows\DAO.csproj.Up2Date
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\obj\Debug\net8.0-windows\DAO.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\obj\Debug\net8.0-windows\refint\DAO.dll
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\obj\Debug\net8.0-windows\DAO.pdb
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\obj\Debug\net8.0-windows\DAO.genruntimeconfig.cache
+C:\Users\hoangphuc\Desktop\QL_NhaThuoc(29.9 22h24)\DAO\obj\Debug\net8.0-windows\ref\DAO.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\DTO.deps.json
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\DTO.runtimeconfig.json
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\DTO.exe
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\DAO.exe
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\DAO.deps.json
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\DAO.runtimeconfig.json
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\DAO.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\DAO.pdb
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\DTO.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\bin\Debug\net8.0-windows\DTO.pdb
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Debug\net8.0-windows\DAO.csproj.AssemblyReference.cache
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Debug\net8.0-windows\DAO.Form1.resources
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Debug\net8.0-windows\DAO.csproj.GenerateResource.cache
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Debug\net8.0-windows\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Debug\net8.0-windows\DAO.AssemblyInfoInputs.cache
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Debug\net8.0-windows\DAO.AssemblyInfo.cs
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Debug\net8.0-windows\DAO.csproj.CoreCompileInputs.cache
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Debug\net8.0-windows\DAO.csproj.Up2Date
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Debug\net8.0-windows\DAO.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Debug\net8.0-windows\refint\DAO.dll
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Debug\net8.0-windows\DAO.pdb
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Debug\net8.0-windows\DAO.genruntimeconfig.cache
+C:\Users\hoangphuc\Downloads\QL_NhaThuoc(13.10 1h06)-20251013T005533Z-1-001\QL_NhaThuoc(13.10 1h06)\DAO\obj\Debug\net8.0-windows\ref\DAO.dll

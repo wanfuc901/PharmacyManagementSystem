@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|d:\\studies\\doanxd_pm_hdt\\ql_nhathuoc(23.11  4.45)\\qlnhathuoc\\frmbaocaotonghop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|solutionrelative:qlnhathuoc\\frmbaocaotonghop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|d:\\studies\\doanxd_pm_hdt\\ql_nhathuoc(23.11  4.45)\\qlnhathuoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|solutionrelative:qlnhathuoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|d:\\studies\\doanxd_pm_hdt\\ql_nhathuoc(23.11  4.45)\\qlnhathuoc\\frmbaocaotonghop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|solutionrelative:qlnhathuoc\\frmbaocaotonghop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|d:\\studies\\doanxd_pm_hdt\\ql_nhathuoc(23.11  4.45)\\qlnhathuoc\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|solutionrelative:qlnhathuoc\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|d:\\studies\\doanxd_pm_hdt\\ql_nhathuoc(23.11  4.45)\\qlnhathuoc\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|solutionrelative:qlnhathuoc\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 242,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmBaoCaoTongHop.cs",
+              "DocumentMoniker": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\QLNhaThuoc\\frmBaoCaoTongHop.cs",
+              "RelativeDocumentMoniker": "QLNhaThuoc\\frmBaoCaoTongHop.cs",
+              "ToolTip": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\QLNhaThuoc\\frmBaoCaoTongHop.cs",
+              "RelativeToolTip": "QLNhaThuoc\\frmBaoCaoTongHop.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:11:09.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\QLNhaThuoc\\Program.cs",
+              "RelativeDocumentMoniker": "QLNhaThuoc\\Program.cs",
+              "ToolTip": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\QLNhaThuoc\\Program.cs",
+              "RelativeToolTip": "QLNhaThuoc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:44:03.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminMenu.cs",
+              "DocumentMoniker": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\QLNhaThuoc\\AdminMenu.cs",
+              "RelativeDocumentMoniker": "QLNhaThuoc\\AdminMenu.cs",
+              "ToolTip": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\QLNhaThuoc\\AdminMenu.cs",
+              "RelativeToolTip": "QLNhaThuoc\\AdminMenu.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAswIwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:42:59.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmBaoCaoTongHop.cs [Design]",
+              "DocumentMoniker": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\QLNhaThuoc\\frmBaoCaoTongHop.cs",
+              "RelativeDocumentMoniker": "QLNhaThuoc\\frmBaoCaoTongHop.cs",
+              "ToolTip": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\QLNhaThuoc\\frmBaoCaoTongHop.cs [Design]",
+              "RelativeToolTip": "QLNhaThuoc\\frmBaoCaoTongHop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:40:28.296Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChiTietHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\QLNhaThuoc\\ChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "QLNhaThuoc\\ChiTietHoaDon.cs",
+              "ToolTip": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\QLNhaThuoc\\ChiTietHoaDon.cs [Design]",
+              "RelativeToolTip": "QLNhaThuoc\\ChiTietHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:40:27.437Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
