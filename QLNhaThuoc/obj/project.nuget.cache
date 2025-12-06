@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lI/mW4njFiY=",
+  "dgSpecHash": "/DcXGT5vDvg=",
   "success": true,
-  "projectFilePath": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\QLNhaThuoc\\QLNhaThuoc.csproj",
+  "projectFilePath": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\QLNhaThuoc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hoang Phuc\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\Hoang Phuc\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
@@ -92,9 +92,9 @@
       "code": "NU1701",
       "level": "Warning",
       "message": "Package 'Microsoft.ReportingServices.ReportViewerControl.Winforms 150.1652.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
-      "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\QLNhaThuoc\\QLNhaThuoc.csproj",
+      "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\QLNhaThuoc.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\QLNhaThuoc\\QLNhaThuoc.csproj",
+      "filePath": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\QLNhaThuoc.csproj",
       "libraryId": "Microsoft.ReportingServices.ReportViewerControl.Winforms",
       "targetGraphs": [
         "net8.0-windows7.0"
@@ -104,9 +104,9 @@
       "code": "NU1701",
       "level": "Warning",
       "message": "Package 'Microsoft.ReportViewer.Runtime.Common 12.0.2402.15' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
-      "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\QLNhaThuoc\\QLNhaThuoc.csproj",
+      "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\QLNhaThuoc.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\QLNhaThuoc\\QLNhaThuoc.csproj",
+      "filePath": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\QLNhaThuoc.csproj",
       "libraryId": "Microsoft.ReportViewer.Runtime.Common",
       "targetGraphs": [
         "net8.0-windows7.0"
@@ -116,9 +116,9 @@
       "code": "NU1701",
       "level": "Warning",
       "message": "Package 'Microsoft.SqlServer.Types 14.0.314.76' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
-      "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\QLNhaThuoc\\QLNhaThuoc.csproj",
+      "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\QLNhaThuoc.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\QLNhaThuoc\\QLNhaThuoc.csproj",
+      "filePath": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\QLNhaThuoc.csproj",
       "libraryId": "Microsoft.SqlServer.Types",
       "targetGraphs": [
         "net8.0-windows7.0"
@@ -128,9 +128,9 @@
       "code": "NU1701",
       "level": "Warning",
       "message": "Package 'VietQRHelper 1.0.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
-      "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\QLNhaThuoc\\QLNhaThuoc.csproj",
+      "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\QLNhaThuoc.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\QLNhaThuoc\\QLNhaThuoc.csproj",
+      "filePath": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\QLNhaThuoc.csproj",
       "libraryId": "VietQRHelper",
       "targetGraphs": [
         "net8.0-windows7.0"

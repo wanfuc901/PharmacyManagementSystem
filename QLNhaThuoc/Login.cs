@@ -107,6 +107,15 @@ namespace QLNhaThuoc
             }
         }
 
+        public Login(string user, string pass)
+        {
+            InitializeComponent();
+
+            textBox1.Text = user;   // tự điền username
+            textBox2.Text = pass;   // tự điền password
+        }
+
+
         private void pictureBox1_Click(object sender, EventArgs e)
         {
 

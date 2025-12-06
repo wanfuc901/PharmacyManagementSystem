@@ -2226,11 +2226,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\BUS\\BUS.csproj",
+      "projectUniqueName": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\BUS\\BUS.csproj",
       "projectName": "BUS",
-      "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\BUS\\BUS.csproj",
+      "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\BUS\\BUS.csproj",
       "packagesPath": "C:\\Users\\Hoang Phuc\\.nuget\\packages\\",
-      "outputPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\BUS\\obj\\",
+      "outputPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\BUS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hoang Phuc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2247,11 +2247,11 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\DAO\\DAO.csproj": {
-              "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\DAO\\DAO.csproj"
+            "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\DAO\\DAO.csproj": {
+              "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\DAO\\DAO.csproj"
             },
-            "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\DTO\\DTO.csproj": {
-              "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\DTO\\DTO.csproj"
+            "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\DTO\\DTO.csproj": {
+              "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\DTO\\DTO.csproj"
             }
           }
         }

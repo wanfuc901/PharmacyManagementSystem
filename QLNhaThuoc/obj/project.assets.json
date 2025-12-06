@@ -4001,11 +4001,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\QLNhaThuoc\\QLNhaThuoc.csproj",
+      "projectUniqueName": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\QLNhaThuoc.csproj",
       "projectName": "QLNhaThuoc",
-      "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\QLNhaThuoc\\QLNhaThuoc.csproj",
+      "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\QLNhaThuoc.csproj",
       "packagesPath": "C:\\Users\\Hoang Phuc\\.nuget\\packages\\",
-      "outputPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\QLNhaThuoc\\obj\\",
+      "outputPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hoang Phuc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4022,14 +4022,14 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\BUS\\BUS.csproj": {
-              "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\BUS\\BUS.csproj"
+            "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\BUS\\BUS.csproj": {
+              "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\BUS\\BUS.csproj"
             },
-            "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\DAO\\DAO.csproj": {
-              "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\DAO\\DAO.csproj"
+            "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\DAO\\DAO.csproj": {
+              "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\DAO\\DAO.csproj"
             },
-            "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\DTO\\DTO.csproj": {
-              "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\DTO\\DTO.csproj"
+            "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\DTO\\DTO.csproj": {
+              "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\DTO\\DTO.csproj"
             }
           }
         }

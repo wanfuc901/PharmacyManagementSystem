@@ -35,14 +35,15 @@ namespace QLNhaThuoc
             if (result)
             {
                 MessageBox.Show("Tạo tài khoản thành công (mặc định Nhân Viên)");
-                this.Close(); // đóng form đăng ký, quay lại login
-                UserMenu f = new UserMenu();
-                f.Show();
+                this.Hide();
+                Login f = new Login(textBox1.Text.Trim(), textBox2.Text.Trim());
+                f.ShowDialog();
+                this.Close();
             }
             else
             {
                 MessageBox.Show("Tạo tài khoản thất bại (tên đăng nhập có thể đã tồn tại)");
-                
+
             }
 
         }
@@ -71,6 +72,11 @@ namespace QLNhaThuoc
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.AutoSizeMode = AutoSizeMode.GrowAndShrink;
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
 
         }
     }

@@ -111,7 +111,7 @@ namespace QLNhaThuoc
 
         private void toolStripMenuItem1_Click_1(object sender, EventArgs e)
         {
-            frmBaoCaoTongHop f = new frmBaoCaoTongHop();
+            ChangePass f = new ChangePass(Program.TenDangNhap);
             f.ShowDialog();
         }
 

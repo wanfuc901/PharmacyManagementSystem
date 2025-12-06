@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\DTO\\DTO.csproj": {}
+    "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\DTO\\DTO.csproj": {}
   },
   "projects": {
-    "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\DTO\\DTO.csproj": {
+    "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\DTO\\DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\DTO\\DTO.csproj",
+        "projectUniqueName": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\DTO\\DTO.csproj",
         "projectName": "DTO",
-        "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\DTO\\DTO.csproj",
+        "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\DTO\\DTO.csproj",
         "packagesPath": "C:\\Users\\Hoang Phuc\\.nuget\\packages\\",
-        "outputPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\DTO\\obj\\",
+        "outputPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\DTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hoang Phuc\\AppData\\Roaming\\NuGet\\NuGet.Config",

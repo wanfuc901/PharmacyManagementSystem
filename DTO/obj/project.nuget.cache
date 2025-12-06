@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "behKKtgSHaI=",
+  "dgSpecHash": "HaaYO1TZtrI=",
   "success": true,
-  "projectFilePath": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\DTO\\DTO.csproj",
+  "projectFilePath": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\DTO\\DTO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hoang Phuc\\.nuget\\packages\\microsoft.reportingservices.reportviewercontrol.winforms\\150.1652.0\\microsoft.reportingservices.reportviewercontrol.winforms.150.1652.0.nupkg.sha512",
     "C:\\Users\\Hoang Phuc\\.nuget\\packages\\microsoft.reportviewer.runtime.common\\12.0.2402.15\\microsoft.reportviewer.runtime.common.12.0.2402.15.nupkg.sha512",
@@ -13,9 +13,9 @@
       "code": "NU1603",
       "level": "Warning",
       "message": "Microsoft.ReportingServices.ReportViewerControl.Winforms 150.1652.0 depends on Microsoft.SqlServer.Types (>= 14.0.0) but Microsoft.SqlServer.Types 14.0.0 was not found. Microsoft.SqlServer.Types 14.0.314.76 was resolved instead.",
-      "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\DTO\\DTO.csproj",
+      "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\DTO\\DTO.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\DTO\\DTO.csproj",
+      "filePath": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\DTO\\DTO.csproj",
       "libraryId": "Microsoft.SqlServer.Types",
       "targetGraphs": [
         "net8.0-windows7.0"
@@ -25,9 +25,9 @@
       "code": "NU1701",
       "level": "Warning",
       "message": "Package 'Microsoft.ReportingServices.ReportViewerControl.Winforms 150.1652.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
-      "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\DTO\\DTO.csproj",
+      "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\DTO\\DTO.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\DTO\\DTO.csproj",
+      "filePath": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\DTO\\DTO.csproj",
       "libraryId": "Microsoft.ReportingServices.ReportViewerControl.Winforms",
       "targetGraphs": [
         "net8.0-windows7.0"
@@ -37,9 +37,9 @@
       "code": "NU1701",
       "level": "Warning",
       "message": "Package 'Microsoft.ReportViewer.Runtime.Common 12.0.2402.15' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
-      "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\DTO\\DTO.csproj",
+      "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\DTO\\DTO.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\DTO\\DTO.csproj",
+      "filePath": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\DTO\\DTO.csproj",
       "libraryId": "Microsoft.ReportViewer.Runtime.Common",
       "targetGraphs": [
         "net8.0-windows7.0"
@@ -49,9 +49,9 @@
       "code": "NU1701",
       "level": "Warning",
       "message": "Package 'Microsoft.SqlServer.Types 14.0.314.76' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
-      "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\DTO\\DTO.csproj",
+      "projectPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\DTO\\DTO.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\DTO\\DTO.csproj",
+      "filePath": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\DTO\\DTO.csproj",
       "libraryId": "Microsoft.SqlServer.Types",
       "targetGraphs": [
         "net8.0-windows7.0"
