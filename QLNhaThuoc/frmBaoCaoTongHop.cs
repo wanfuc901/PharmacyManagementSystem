@@ -137,7 +137,7 @@ namespace QLNhaThuoc
 
         private void AddFilter_DonThu()
         {
-            
+
 
             Label l1 = new Label { Text = "Ca:", Left = 10, Top = 10 };
             cbCa = new ComboBox { Left = 80, Top = 8, Width = 120 };
@@ -286,7 +286,11 @@ namespace QLNhaThuoc
                 _ => null
             };
 
+            dataGridView1.DataSource = null;
+            dataGridView1.AutoGenerateColumns = true;
             dataGridView1.DataSource = dt;
+            dataGridView1.Refresh();
+
         }
 
         private DataTable LocDoanhThu(DataTable dt)
@@ -351,11 +355,13 @@ namespace QLNhaThuoc
 
             int top = (int)numTop.Value;
 
-            return dt.AsEnumerable()
-                     .OrderByDescending(r => r.Field<int>("SoLuongBan"))
-                     .Take(top)
-                     .CopyToDataTable();
+            var rows = dt.AsEnumerable()
+                         .OrderByDescending(r => r.Field<int>("SoLuongBan"))
+                         .Take(Math.Min(top, dt.Rows.Count));
+
+            return rows.Any() ? rows.CopyToDataTable() : dt.Clone();
         }
+
 
 
         private DataTable LocKhachHangMuaNhieu(DataTable dt)
@@ -364,11 +370,13 @@ namespace QLNhaThuoc
 
             int top = (int)numTopKH.Value;
 
-            return dt.AsEnumerable()
-                     .OrderByDescending(r => r.Field<decimal>("TongChiTieu"))
-                     .Take(top)
-                     .CopyToDataTable();
+            var rows = dt.AsEnumerable()
+                         .OrderByDescending(r => r.Field<decimal>("TongChiTieu"))
+                         .Take(Math.Min(top, dt.Rows.Count));
+
+            return rows.Any() ? rows.CopyToDataTable() : dt.Clone();
         }
+
 
 
 
@@ -449,6 +457,11 @@ namespace QLNhaThuoc
                 MessageBox.Show("Đã tạo file PDF: " + sfd.FileName);
                 System.Diagnostics.Process.Start("explorer.exe", sfd.FileName);
             }
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
         }
     }
 }

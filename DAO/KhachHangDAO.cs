@@ -79,6 +79,47 @@ namespace DAO
 
             return DataProvider.TruyVanLayDuLieu(sql, list.ToArray());
         }
+
+        public static bool InsertBool(KhachHangDTO kh)
+        {
+            string sql = @"
+        INSERT INTO khachhang (tenkh, diachi, sdt, email)
+        VALUES (@ten, @dc, @sdt, @email)
+    ";
+
+            using (SqlConnection conn = DataProvider.MoKetNoi())
+            using (SqlCommand cmd = new SqlCommand(sql, conn))
+            {
+                cmd.Parameters.AddWithValue("@ten", kh.TenKH);
+                cmd.Parameters.AddWithValue("@dc", kh.DiaChi);
+                cmd.Parameters.AddWithValue("@sdt", kh.SDT);
+                cmd.Parameters.AddWithValue("@email", kh.Email);
+
+                return cmd.ExecuteNonQuery() > 0;
+            }
+        }
+
+        public static int InsertAndReturnId(KhachHangDTO kh)
+        {
+            string sql = @"
+        INSERT INTO khachhang (tenkh, diachi, sdt, email)
+        OUTPUT INSERTED.makh
+        VALUES (@ten, @dc, @sdt, @email)
+    ";
+
+            using (SqlConnection conn = DataProvider.MoKetNoi())
+            using (SqlCommand cmd = new SqlCommand(sql, conn))
+            {
+                cmd.Parameters.AddWithValue("@ten", kh.TenKH);
+                cmd.Parameters.AddWithValue("@dc", kh.DiaChi);
+                cmd.Parameters.AddWithValue("@sdt", kh.SDT);
+                cmd.Parameters.AddWithValue("@email", kh.Email);
+
+                return (int)cmd.ExecuteScalar();
+            }
+        }
+
+
         public static DataTable SearchByKeyword(string keyword)
         {
             string sql = @"SELECT MaKH, TenKH, DiaChi, SDT, Email 

@@ -15,6 +15,7 @@ namespace QLNhaThuoc
     public partial class Trade : Form
     {
         private BindingList<TradeDTO> gioHang = new BindingList<TradeDTO>();
+        private int? _maKH = null; // LƯU MÃ KHÁCH HÀNG ĐANG CHỌN
 
         public Trade()
         {
@@ -52,6 +53,8 @@ namespace QLNhaThuoc
             {
                 // Nếu tìm thấy khách hàng
                 DataRow row = dt.Rows[0];
+                _maKH = Convert.ToInt32(row["MaKH"]); // ⭐ THÊM DÒNG NÀY
+                btnThanhToan.Enabled = true;
                 txtHoTen.Text = row["TenKH"].ToString();
                 txtDiaChi.Text = row["DiaChi"].ToString();
                 txtSDT.Text = row["SDT"].ToString();
@@ -66,6 +69,7 @@ namespace QLNhaThuoc
             else
             {
                 MessageBox.Show("Khách hàng mới, vui lòng nhập thông tin!");
+                _maKH = null; // CHƯA CÓ KH → KHÔNG CHO THANH TOÁN
 
                 // Cho phép nhập mới
                 txtHoTen.ReadOnly = false;
@@ -134,10 +138,15 @@ namespace QLNhaThuoc
                 Email = txtEmail.Text.Trim()
             };
 
-            if (KhachHangBUS.Insert(kh))
+            int maKH = KhachHangBUS.Insert(kh); // PHẢI TRẢ VỀ MaKH
+
+            if (maKH > 0)
             {
+
+                _maKH = maKH; // ⭐ LƯU MÃ KH
+                btnThanhToan.Enabled = true;
                 MessageBox.Show("Thêm khách hàng thành công!");
-                // Sau khi thêm, khóa lại để chỉ hiển thị
+
                 txtHoTen.ReadOnly = true;
                 txtDiaChi.ReadOnly = true;
                 txtSDT.ReadOnly = true;
@@ -361,18 +370,41 @@ namespace QLNhaThuoc
         {
             gioHang.Clear();
             UpdateTongTien();
+            ResetKhachHang();
         }
 
         private void btnThanhToan_Click(object sender, EventArgs e)
         {
+            if (_maKH == null)
+            {
+                MessageBox.Show(
+                    "Chưa có khách hàng!\nVui lòng thêm hoặc chọn khách hàng trước khi thanh toán.",
+                    "Thiếu khách hàng",
+                    MessageBoxButtons.OK,
+                    MessageBoxIcon.Warning
+                );
+                return;
+            }
+
+            if (gioHang.Count == 0)
+            {
+                MessageBox.Show("Giỏ hàng trống!");
+                return;
+            }
+
             try
             {
-                TradeDTO hd = new TradeDTO { MaKH = null }; // chưa chọn khách hàng
+                TradeDTO hd = new TradeDTO
+                {
+                    MaKH = _maKH // ⭐ TRUYỀN MÃ KH
+                };
+
                 int mahd = TradeBUS.ThanhToan(hd, gioHang.ToList());
                 MessageBox.Show("Thanh toán thành công. Mã HĐ: " + mahd);
 
                 gioHang.Clear();
                 UpdateTongTien();
+                ResetKhachHang();
             }
             catch (Exception ex)
             {
@@ -382,6 +414,7 @@ namespace QLNhaThuoc
 
         private void Trade_Load(object sender, EventArgs e)
         {
+            btnThanhToan.Enabled = false; // ⭐ THÊM DÒNG NÀY
             this.StartPosition = FormStartPosition.CenterScreen;
             this.FormBorderStyle = FormBorderStyle.FixedSingle; // hoặc FixedDialog/Fixed3D
             this.MaximizeBox = false;
@@ -411,6 +444,25 @@ namespace QLNhaThuoc
 
             UpdateTongTien();
         }
+
+        private void ResetKhachHang()
+        {
+            _maKH = null;
+
+            txtHoTen.Clear();
+            txtDiaChi.Clear();
+            txtSDT.Clear();
+            txtEmail.Clear();
+
+            txtHoTen.ReadOnly = false;
+            txtDiaChi.ReadOnly = false;
+            txtSDT.ReadOnly = false;
+            txtEmail.ReadOnly = false;
+
+            btnThanhToan.Enabled = false; // ⭐ THÊM
+        }
+
+
 
         private void LoadThuoc(string keyword = "")
         {

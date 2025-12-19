@@ -64,7 +64,7 @@ namespace QL_NhaThuoc
                 Email = txtEmail.Text
             };
 
-            if (KhachHangBUS.Insert(kh))
+            if (KhachHangBUS.InsertBool(kh))
                 MessageBox.Show("Thêm khách hàng thành công!");
             else
                 MessageBox.Show("Thêm khách hàng thất bại!");

@@ -10,32 +10,54 @@ namespace DAO
         public static DataTable LayDoanhThuTheoKhoang(DateTime from, DateTime to)
         {
             string sql = @"
-                SELECT CONVERT(date, ngaylap) AS Ngay, SUM(tongtien) AS DoanhThu
-                FROM hoadon
-                WHERE ngaylap BETWEEN @from AND @to
-                GROUP BY CONVERT(date, ngaylap)
-                ORDER BY Ngay";
+        SELECT 
+            CONVERT(date, h.ngaylap) AS Ngay,
+            h.ca AS Ca,
+            h.nhanvien AS NhanVien,
+            h.thanhtoan AS ThanhToan,
+            SUM(h.tongtien) AS DoanhThu
+        FROM hoadon h
+        WHERE h.ngaylap BETWEEN @from AND @to
+        GROUP BY CONVERT(date, h.ngaylap), h.ca, h.nhanvien, h.thanhtoan
+        ORDER BY Ngay
+    ";
+
             SqlParameter[] p = {
-                new SqlParameter("@from", from),
-                new SqlParameter("@to", to)
-            };
+        new SqlParameter("@from", from),
+        new SqlParameter("@to", to)
+    };
+
             return DataProvider.TruyVanLayDuLieu(sql, p);
         }
+
 
         public static DataTable LayNhapHangTheoKhoang(DateTime from, DateTime to)
         {
             string sql = @"
-                SELECT CONVERT(date, ngaynhap) AS Ngay, SUM(tongtien) AS TongNhap
-                FROM phieunhap
-                WHERE ngaynhap BETWEEN @from AND @to
-                GROUP BY CONVERT(date, ngaynhap)
-                ORDER BY Ngay";
-            SqlParameter[] p = {
-                new SqlParameter("@from", from),
-                new SqlParameter("@to", to)
-            };
+        SELECT 
+            CONVERT(date, pn.ngaynhap) AS Ngay,
+            ncc.tenncc AS NCC,
+            t.tenthuoc AS TenThuoc,
+            ctpn.soluong AS SoLuong,
+            ctpn.gianhap AS GiaNhap,
+            (ctpn.soluong * ctpn.gianhap) AS ThanhTien
+        FROM phieunhap pn
+        JOIN nhacungcap ncc ON pn.mancc = ncc.mancc
+        JOIN ct_phieunhap ctpn ON pn.mapn = ctpn.mapn
+        JOIN thuoc t ON ctpn.mathuoc = t.mathuoc
+        WHERE pn.ngaynhap BETWEEN @from AND @to
+        ORDER BY Ngay, ncc.tenncc, t.tenthuoc
+    ";
+
+            SqlParameter[] p =
+            {
+        new SqlParameter("@from", from),
+        new SqlParameter("@to", to)
+    };
+
             return DataProvider.TruyVanLayDuLieu(sql, p);
         }
+
 
         public static DataTable LayDoanhThuTheoThang(int nam)
         {
@@ -51,11 +73,21 @@ namespace DAO
 
         public static DataTable LayTonKho()
         {
-            string sql = @"SELECT mathuoc, tenthuoc, soluong, gia,
-                                  (soluong * gia) AS GiaTriTon
-                           FROM thuoc ORDER BY tenthuoc";
+            string sql = @"
+        SELECT 
+            mathuoc,
+            tenthuoc,
+            nhom AS Nhom,
+            soluong,
+            gia,
+            (soluong * gia) AS GiaTriTon
+        FROM thuoc
+        ORDER BY tenthuoc
+    ";
+
             return DataProvider.TruyVanLayDuLieu(sql);
         }
+
 
         public static DataTable LayThuocBanChay()
         {

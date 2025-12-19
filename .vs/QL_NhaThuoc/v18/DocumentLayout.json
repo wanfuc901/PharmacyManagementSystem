@@ -3,6 +3,58 @@
   "WorkspaceRootPath": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{696D8128-323E-419F-B545-C20657FC7EA0}|DAO\\DAO.csproj|d:\\studies\\doanxd_pm_hdt\\pharmacymanagementsystem\\dao\\baocaodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696D8128-323E-419F-B545-C20657FC7EA0}|DAO\\DAO.csproj|solutionrelative:dao\\baocaodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|d:\\studies\\doanxd_pm_hdt\\pharmacymanagementsystem\\qlnhathuoc\\frmbaocaotonghop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|solutionrelative:qlnhathuoc\\frmbaocaotonghop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\qlnhathuoc\\frmbaocaotonghop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|solutionrelative:qlnhathuoc\\frmbaocaotonghop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696D8128-323E-419F-B545-C20657FC7EA0}|DAO\\DAO.csproj|d:\\studies\\doanxd_pm_hdt\\pharmacymanagementsystem\\dao\\khachhangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696D8128-323E-419F-B545-C20657FC7EA0}|DAO\\DAO.csproj|solutionrelative:dao\\khachhangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D00D62-2045-4733-8B4B-2869FEB70614}|BUS\\BUS.csproj|d:\\studies\\doanxd_pm_hdt\\pharmacymanagementsystem\\bus\\baocaobus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D00D62-2045-4733-8B4B-2869FEB70614}|BUS\\BUS.csproj|solutionrelative:bus\\baocaobus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|d:\\studies\\doanxd_pm_hdt\\pharmacymanagementsystem\\qlnhathuoc\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|solutionrelative:qlnhathuoc\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D00D62-2045-4733-8B4B-2869FEB70614}|BUS\\BUS.csproj|d:\\studies\\doanxd_pm_hdt\\pharmacymanagementsystem\\bus\\khachhangbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D00D62-2045-4733-8B4B-2869FEB70614}|BUS\\BUS.csproj|solutionrelative:bus\\khachhangbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|d:\\studies\\doanxd_pm_hdt\\pharmacymanagementsystem\\qlnhathuoc\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|solutionrelative:qlnhathuoc\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|d:\\studies\\doanxd_pm_hdt\\pharmacymanagementsystem\\qlnhathuoc\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|solutionrelative:qlnhathuoc\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696D8128-323E-419F-B545-C20657FC7EA0}|DAO\\DAO.csproj|d:\\studies\\doanxd_pm_hdt\\pharmacymanagementsystem\\dao\\tradedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696D8128-323E-419F-B545-C20657FC7EA0}|DAO\\DAO.csproj|solutionrelative:dao\\tradedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|d:\\studies\\doanxd_pm_hdt\\pharmacymanagementsystem\\qlnhathuoc\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|solutionrelative:qlnhathuoc\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91D00D62-2045-4733-8B4B-2869FEB70614}|BUS\\BUS.csproj|d:\\studies\\doanxd_pm_hdt\\pharmacymanagementsystem\\bus\\tradebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D00D62-2045-4733-8B4B-2869FEB70614}|BUS\\BUS.csproj|solutionrelative:bus\\tradebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827F93C5-32A8-492D-8568-9271F540F8AD}|DTO\\DTO.csproj|d:\\studies\\doanxd_pm_hdt\\pharmacymanagementsystem\\dto\\tradedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827F93C5-32A8-492D-8568-9271F540F8AD}|DTO\\DTO.csproj|solutionrelative:dto\\tradedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|d:\\studies\\doanxd_pm_hdt\\pharmacymanagementsystem\\qlnhathuoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|solutionrelative:qlnhathuoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,7 +71,7 @@
       "RelativeMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|solutionrelative:qlnhathuoc\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|d:\\studies\\doanxd_pm_hdt\\pharmacymanagementsystem\\qlnhathuoc\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\qlnhathuoc\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|solutionrelative:qlnhathuoc\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -39,14 +91,6 @@
       "RelativeMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|solutionrelative:qlnhathuoc\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|d:\\studies\\doanxd_pm_hdt\\pharmacymanagementsystem\\qlnhathuoc\\frmbaocaotonghop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|solutionrelative:qlnhathuoc\\frmbaocaotonghop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\qlnhathuoc\\frmbaocaotonghop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|solutionrelative:qlnhathuoc\\frmbaocaotonghop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|d:\\studies\\doanxd_pm_hdt\\pharmacymanagementsystem\\qlnhathuoc\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|solutionrelative:qlnhathuoc\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -62,11 +106,181 @@
       "DocumentGroups": [
         {
           "DockedHeight": 242,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaoCaoBUS.cs",
+              "DocumentMoniker": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\BUS\\BaoCaoBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\BaoCaoBUS.cs",
+              "ToolTip": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\BUS\\BaoCaoBUS.cs",
+              "RelativeToolTip": "BUS\\BaoCaoBUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T07:52:49.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaoCaoDAO.cs",
+              "DocumentMoniker": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\DAO\\BaoCaoDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\BaoCaoDAO.cs",
+              "ToolTip": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\DAO\\BaoCaoDAO.cs",
+              "RelativeToolTip": "DAO\\BaoCaoDAO.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAADwv1kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T07:52:43.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KhachHangDAO.cs",
+              "DocumentMoniker": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\DAO\\KhachHangDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\KhachHangDAO.cs",
+              "ToolTip": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\DAO\\KhachHangDAO.cs",
+              "RelativeToolTip": "DAO\\KhachHangDAO.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAMwA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T07:46:06.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KhachHangBUS.cs",
+              "DocumentMoniker": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\BUS\\KhachHangBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\KhachHangBUS.cs",
+              "ToolTip": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\BUS\\KhachHangBUS.cs",
+              "RelativeToolTip": "BUS\\KhachHangBUS.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAtwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T07:44:12.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Trade.cs",
+              "DocumentMoniker": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\Trade.cs",
+              "RelativeDocumentMoniker": "QLNhaThuoc\\Trade.cs",
+              "ToolTip": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\Trade.cs",
+              "RelativeToolTip": "QLNhaThuoc\\Trade.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAkwJIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T07:01:27.901Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "frmBaoCaoTongHop.cs [Design]",
+              "DocumentMoniker": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\frmBaoCaoTongHop.cs",
+              "RelativeDocumentMoniker": "QLNhaThuoc\\frmBaoCaoTongHop.cs",
+              "ToolTip": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\frmBaoCaoTongHop.cs [Design]",
+              "RelativeToolTip": "QLNhaThuoc\\frmBaoCaoTongHop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:40:28.296Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmBaoCaoTongHop.cs",
+              "DocumentMoniker": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\frmBaoCaoTongHop.cs",
+              "RelativeDocumentMoniker": "QLNhaThuoc\\frmBaoCaoTongHop.cs",
+              "ToolTip": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\frmBaoCaoTongHop.cs",
+              "RelativeToolTip": "QLNhaThuoc\\frmBaoCaoTongHop.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAIAwwGwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:11:09.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\KhachHang.cs",
+              "RelativeDocumentMoniker": "QLNhaThuoc\\KhachHang.cs",
+              "ToolTip": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\KhachHang.cs",
+              "RelativeToolTip": "QLNhaThuoc\\KhachHang.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAD4v0IAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T07:43:22.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\KhachHang.cs",
+              "RelativeDocumentMoniker": "QLNhaThuoc\\KhachHang.cs",
+              "ToolTip": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\KhachHang.cs [Design]",
+              "RelativeToolTip": "QLNhaThuoc\\KhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T07:43:20.428Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TradeDAO.cs",
+              "DocumentMoniker": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\DAO\\TradeDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\TradeDAO.cs",
+              "ToolTip": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\DAO\\TradeDAO.cs",
+              "RelativeToolTip": "DAO\\TradeDAO.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T07:11:06.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TradeBUS.cs",
+              "DocumentMoniker": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\BUS\\TradeBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\TradeBUS.cs",
+              "ToolTip": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\BUS\\TradeBUS.cs",
+              "RelativeToolTip": "BUS\\TradeBUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T07:11:12.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TradeDTO.cs",
+              "DocumentMoniker": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\DTO\\TradeDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\TradeDTO.cs",
+              "ToolTip": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\DTO\\TradeDTO.cs",
+              "RelativeToolTip": "DTO\\TradeDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAzwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T07:10:58.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Trade.cs [Design]",
+              "DocumentMoniker": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\Trade.cs",
+              "RelativeDocumentMoniker": "QLNhaThuoc\\Trade.cs",
+              "ToolTip": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\Trade.cs [Design]",
+              "RelativeToolTip": "QLNhaThuoc\\Trade.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T07:01:13.837Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "UserMenu.cs",
               "DocumentMoniker": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\UserMenu.cs",
               "RelativeDocumentMoniker": "QLNhaThuoc\\UserMenu.cs",
@@ -79,31 +293,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 17,
               "Title": "UserMenu.cs [Design]",
               "DocumentMoniker": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\UserMenu.cs",
               "RelativeDocumentMoniker": "QLNhaThuoc\\UserMenu.cs",
               "ToolTip": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\UserMenu.cs [Design]",
               "RelativeToolTip": "QLNhaThuoc\\UserMenu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T13:17:48.95Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-06T13:17:48.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\Login.cs",
               "RelativeDocumentMoniker": "QLNhaThuoc\\Login.cs",
               "ToolTip": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\Login.cs [Design]",
               "RelativeToolTip": "QLNhaThuoc\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T12:53:24.18Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-06T12:53:24.18Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 16,
               "Title": "Login.cs",
               "DocumentMoniker": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\Login.cs",
               "RelativeDocumentMoniker": "QLNhaThuoc\\Login.cs",
@@ -111,12 +323,11 @@
               "RelativeToolTip": "QLNhaThuoc\\Login.cs",
               "ViewState": "AgIAAGkAAAAAAAAAAAAwwHwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T13:02:18.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-06T13:02:18.977Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 18,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "QLNhaThuoc\\Properties\\AssemblyInfo.cs",
@@ -124,12 +335,11 @@
               "RelativeToolTip": "QLNhaThuoc\\Properties\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T13:12:55.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-06T13:12:55.979Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 19,
               "Title": "QLNhaThuoc.AssemblyInfo.cs",
               "DocumentMoniker": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\obj\\Release\\net8.0-windows\\QLNhaThuoc.AssemblyInfo.cs",
               "RelativeDocumentMoniker": "QLNhaThuoc\\obj\\Release\\net8.0-windows\\QLNhaThuoc.AssemblyInfo.cs",
@@ -137,29 +347,24 @@
               "RelativeToolTip": "QLNhaThuoc\\obj\\Release\\net8.0-windows\\QLNhaThuoc.AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T13:11:07.881Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "WhenOpened": "2025-12-06T13:11:07.881Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\Program.cs",
               "RelativeDocumentMoniker": "QLNhaThuoc\\Program.cs",
               "ToolTip": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\Program.cs",
               "RelativeToolTip": "QLNhaThuoc\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T13:44:03.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
               "Title": "SignUp.cs [Design]",
               "DocumentMoniker": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\SignUp.cs",
               "RelativeDocumentMoniker": "QLNhaThuoc\\SignUp.cs",
@@ -170,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 21,
               "Title": "TaiKhoan.cs [Design]",
               "DocumentMoniker": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\TaiKhoan.cs",
               "RelativeDocumentMoniker": "QLNhaThuoc\\TaiKhoan.cs",
@@ -181,20 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "frmBaoCaoTongHop.cs",
-              "DocumentMoniker": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\frmBaoCaoTongHop.cs",
-              "RelativeDocumentMoniker": "QLNhaThuoc\\frmBaoCaoTongHop.cs",
-              "ToolTip": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\frmBaoCaoTongHop.cs",
-              "RelativeToolTip": "QLNhaThuoc\\frmBaoCaoTongHop.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAxwCkAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T14:11:09.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 22,
               "Title": "AdminMenu.cs",
               "DocumentMoniker": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\AdminMenu.cs",
               "RelativeDocumentMoniker": "QLNhaThuoc\\AdminMenu.cs",
@@ -206,18 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "frmBaoCaoTongHop.cs [Design]",
-              "DocumentMoniker": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\frmBaoCaoTongHop.cs",
-              "RelativeDocumentMoniker": "QLNhaThuoc\\frmBaoCaoTongHop.cs",
-              "ToolTip": "D:\\STUDIES\\DoAnXD_PM_HDT\\QL_NhaThuoc(23.11  4.45)\\QLNhaThuoc\\frmBaoCaoTongHop.cs [Design]",
-              "RelativeToolTip": "..\\QL_NhaThuoc(23.11  4.45)\\QLNhaThuoc\\frmBaoCaoTongHop.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T13:40:28.296Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 23,
               "Title": "ChiTietHoaDon.cs [Design]",
               "DocumentMoniker": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\ChiTietHoaDon.cs",
               "RelativeDocumentMoniker": "QLNhaThuoc\\ChiTietHoaDon.cs",

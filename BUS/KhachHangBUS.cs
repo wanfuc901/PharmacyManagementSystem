@@ -11,10 +11,8 @@ namespace BUS
             return KhachHangDAO.GetAll();
         }
 
-        public static bool Insert(KhachHangDTO kh)
-        {
-            return KhachHangDAO.Insert(kh);
-        }
+
+
 
         public static bool Update(KhachHangDTO kh)
         {
@@ -40,6 +38,16 @@ namespace BUS
         {
             return KhachHangDAO.ExistsBySDT(sdt);
         }
+        public static bool InsertBool(KhachHangDTO kh)
+        {
+            return KhachHangDAO.InsertBool(kh);
+        }
+        public static int Insert(KhachHangDTO kh)
+        {
+            return KhachHangDAO.InsertAndReturnId(kh);
+        }
+
+
 
 
     }
