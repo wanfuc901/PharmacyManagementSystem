@@ -1,32 +1,62 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Drawing;
+using System.Linq;
 using System.Windows.Forms;
 
 namespace QLNhaThuoc
 {
     public partial class frmHuongDan : Form
     {
+        private readonly Dictionary<string, string> _sections = new();
+        private readonly List<int> _matchPositions = new();
+        private int _matchIndex = -1;
+        private string _lastSearch = "";
+
         public frmHuongDan()
         {
             InitializeComponent();
 
-            // Khóa không cho thay đổi kích thước form
             this.StartPosition = FormStartPosition.CenterScreen;
             this.FormBorderStyle = FormBorderStyle.FixedSingle;
-            this.MaximizeBox = false;               // Ẩn nút phóng to
-            this.MinimizeBox = true;                // Cho phép thu nhỏ (nếu không cần thì = false)
+            this.MaximizeBox = false;
+            this.MinimizeBox = true;
             this.AutoSizeMode = AutoSizeMode.GrowAndShrink;
+
+            richTextBox1.ReadOnly = true;
+            richTextBox1.BackColor = Color.White;
         }
 
         private void frmHuongDan_Load(object sender, EventArgs e)
         {
-            richTextBox1.ReadOnly = true;
-            richTextBox1.BackColor = System.Drawing.Color.White;
+            BuildSections();
+            BuildTree();
 
-            richTextBox1.Text =
-@"
-================= HƯỚNG DẪN SỬ DỤNG HỆ THỐNG QUẢN LÝ NHÀ THUỐC =================
+            tvMucLuc.ExpandAll();
+            if (tvMucLuc.Nodes.Count > 0)
+            {
+                tvMucLuc.SelectedNode = tvMucLuc.Nodes[0].FirstNode ?? tvMucLuc.Nodes[0];
+            }
 
-I. GIỚI THIỆU CHUNG
+            splitContainer1.FixedPanel = FixedPanel.Panel1;
+            splitContainer1.IsSplitterFixed = false;
+
+            splitContainer1.Panel1MinSize = 200;
+            splitContainer1.Panel2MinSize = 400;
+
+            // Đảm bảo chạy sau khi layout xong (Width đã đúng)
+            BeginInvoke(new Action(() =>
+            {
+                splitContainer1.SplitterDistance = (int)(splitContainer1.Width * 0.3); // 3/7
+            }));
+        }
+
+        private void BuildSections()
+        {
+            _sections.Clear();
+
+            _sections["intro"] =
+@"I. GIỚI THIỆU CHUNG
 -------------------------------------------------------------------------------
 Phần mềm dùng để:
 • Quản lý danh sách thuốc trong nhà thuốc
@@ -42,9 +72,10 @@ Giao diện được chia thành các màn hình chính:
 5. Màn hình bán hàng / hóa đơn
 6. Màn hình tìm kiếm hóa đơn
 7. Màn hình báo cáo tổng hợp
+";
 
-
-II. MÀN HÌNH ĐĂNG NHẬP
+            _sections["login"] =
+@"II. MÀN HÌNH ĐĂNG NHẬP
 -------------------------------------------------------------------------------
 Thành phần giao diện:
 • Ô 'Tên đăng nhập'
@@ -54,203 +85,283 @@ Thành phần giao diện:
 
 Cách sử dụng:
 1. Nhập đúng tên đăng nhập và mật khẩu được cấp.
-2. Nhấn nút 'Đăng nhập':
+2. Nhấn 'Đăng nhập':
    - Nếu đúng: chuyển sang màn hình chính.
-   - Nếu sai: hệ thống hiển thị thông báo lỗi, nhập lại.
+   - Nếu sai: hiển thị thông báo lỗi, nhập lại.
 3. Nhấn 'Thoát' để đóng chương trình (nếu không muốn sử dụng).
+";
 
-
-III. MÀN HÌNH CHÍNH (MENU CHỨC NĂNG)
+            _sections["mainmenu"] =
+@"III. MÀN HÌNH CHÍNH (MENU CHỨC NĂNG)
 -------------------------------------------------------------------------------
-Thành phần giao diện (tuỳ bố cục của bạn nhưng thường gồm):
-• Thanh menu / các nút chức năng:
-  - 'Quản lý thuốc'
-  - 'Quản lý khách hàng'
-  - 'Bán hàng' hoặc 'Hóa đơn'
-  - 'Tìm kiếm hóa đơn'
-  - 'Báo cáo tổng hợp'
-  - 'Đăng xuất' hoặc 'Thoát'
+• Nhấn vào từng menu để mở màn hình tương ứng.
+• 'Đăng xuất' dùng để quay lại màn hình đăng nhập.
+";
 
-Cách sử dụng:
-• Nhấn vào từng nút để mở màn hình tương ứng.
-• Nút 'Đăng xuất' dùng để quay lại màn hình đăng nhập.
-• Nút 'Thoát' dùng để đóng toàn bộ chương trình.
-
-
-IV. MÀN HÌNH QUẢN LÝ THUỐC
--------------------------------------------------------------------------------
-Thành phần giao diện:
-• Bảng danh sách thuốc: hiển thị các cột như:
-  - Mã thuốc, Tên thuốc, Đơn vị tính, Giá bán, Số lượng tồn,...
-• Ô tìm kiếm (thường ở phía trên) để lọc theo tên thuốc.
-• Các nút chức năng thường gặp:
-  - Nút 'Thêm'
-  - Nút 'Sửa'
-  - Nút 'Xóa'
-  - Nút 'Lưu'
-  - Nút 'Hủy'
-  - Nút 'Đóng' / 'Thoát'
-
-Cách sử dụng các nút:
-1. Nút 'Thêm':
-   - Nhấn 'Thêm' → các ô nhập thông tin bên dưới/d bên cạnh sẽ trống.
-   - Nhập: tên thuốc, đơn vị, giá bán, số lượng ban đầu, nhà cung cấp,...
-   - Nhấn 'Lưu' để lưu thuốc mới vào danh sách.
-
-2. Nút 'Sửa':
-   - Chọn 1 dòng thuốc trong bảng.
-   - Nhấn 'Sửa' → thông tin thuốc được đưa vào vùng nhập.
-   - Chỉnh sửa nội dung cần thay đổi.
-   - Nhấn 'Lưu' để cập nhật.
-
-3. Nút 'Xóa':
-   - Chọn 1 dòng thuốc trong bảng.
-   - Nhấn 'Xóa' → xác nhận xóa.
-   - Thuốc sẽ bị xóa khỏi danh sách (nên cẩn thận khi xóa thuốc đã có hóa đơn).
-
-4. Nút 'Hủy':
-   - Dùng để hủy thao tác thêm / sửa đang thực hiện.
-   - Dữ liệu sẽ trở về trạng thái ban đầu.
-
-5. Nút 'Đóng' / 'Thoát':
-   - Đóng màn hình quản lý thuốc và quay lại màn hình chính.
-
-6. Ô tìm kiếm:
-   - Gõ tên (hoặc 1 phần tên) thuốc → danh sách lọc theo nội dung đã gõ.
-
-
-V. MÀN HÌNH QUẢN LÝ KHÁCH HÀNG
--------------------------------------------------------------------------------
-Thành phần giao diện:
-• Bảng danh sách khách hàng:
-  - Mã KH, Họ tên, Giới tính, Số điện thoại, Địa chỉ,...
-• Ô tìm kiếm theo tên hoặc số điện thoại.
-• Các nút: 'Thêm', 'Sửa', 'Xóa', 'Lưu', 'Hủy', 'Đóng'.
-
-Cách sử dụng:
-1. Thêm khách hàng:
-   - Nhấn 'Thêm' → nhập họ tên, số điện thoại, địa chỉ,...
-   - Nhấn 'Lưu' để tạo khách hàng mới.
-
-2. Sửa thông tin:
-   - Chọn khách hàng trong bảng.
-   - Nhấn 'Sửa' → điều chỉnh thông tin.
-   - Nhấn 'Lưu' để cập nhật.
-
-3. Xóa khách hàng:
-   - Chọn khách hàng.
-   - Nhấn 'Xóa' → xác nhận xóa.
-
-4. Tìm kiếm:
-   - Nhập tên hoặc số điện thoại vào ô tìm kiếm.
-   - Danh sách sẽ tự lọc theo nội dung nhập.
-
-5. Đóng màn hình:
-   - Nhấn 'Đóng' để quay về màn hình chính.
-
-
-VI. MÀN HÌNH BÁN HÀNG / HÓA ĐƠN
--------------------------------------------------------------------------------
-Thành phần giao diện thường có:
-• Khu vực thông tin khách hàng:
-  - Ô nhập số điện thoại hoặc chọn khách hàng
-  - Nút 'Thêm khách hàng' (nếu khách mới)
-• Khu vực chọn thuốc:
-  - Ô chọn thuốc / tìm thuốc
-  - Ô nhập số lượng
-  - Nút 'Thêm vào hóa đơn'
-• Bảng chi tiết hóa đơn:
-  - Danh sách các thuốc đã chọn, số lượng, đơn giá, thành tiền
-• Khu vực tổng tiền:
-  - Tổng tiền hàng
-  - Có thể có giảm giá / thuế (tùy bạn thiết kế)
-• Nút chức năng:
-  - 'Thanh toán'
-  - 'Xóa dòng' (xóa 1 thuốc khỏi hóa đơn)
-  - 'Làm mới' / 'Hủy hóa đơn'
-  - 'Đóng' / 'Thoát'
-
-Quy trình bán hàng:
-1. Chọn hoặc nhập khách hàng:
-   - Nếu là khách cũ: chọn từ danh sách hoặc tìm theo số điện thoại.
-   - Nếu là khách mới: nhấn nút thêm khách hàng (nếu có) và tạo mới.
-
-2. Chọn thuốc:
-   - Chọn 1 thuốc từ danh sách hoặc từ ô chọn thuốc.
-   - Nhập số lượng cần bán.
-   - Nhấn 'Thêm vào hóa đơn' → thuốc xuất hiện trong bảng chi tiết.
-
-3. Kiểm tra danh sách:
-   - Có thể chọn 1 dòng và nhấn 'Xóa dòng' nếu thêm nhầm.
-
-4. Thanh toán:
-   - Kiểm tra tổng tiền.
-   - Nhấn 'Thanh toán':
-     • Hóa đơn được lưu.
-     • Số lượng tồn kho của các thuốc trong hóa đơn sẽ giảm.
-   - In hóa đơn (nếu phần mềm hỗ trợ in).
-
-5. Hủy / làm mới hóa đơn:
-   - Nếu nhập sai quá nhiều, nhấn 'Hủy' hoặc 'Làm mới' để xóa hết dữ liệu trên màn hình.
-
-
-VII. MÀN HÌNH TÌM KIẾM HÓA ĐƠN
+            _sections["thuoc"] =
+@"IV. MÀN HÌNH QUẢN LÝ THUỐC
 -------------------------------------------------------------------------------
 Thành phần:
-• Ô chọn ngày bắt đầu – ngày kết thúc.
-• Có thể có ô chọn nhân viên, chọn khách hàng.
-• Nút 'Tìm kiếm'.
-• Bảng danh sách hóa đơn thỏa điều kiện.
-• Nút xem chi tiết / in hóa đơn (nếu có).
+• Bảng danh sách thuốc: Mã thuốc, Tên thuốc, Đơn vị tính, Giá bán, Số lượng tồn,...
+• Ô tìm kiếm để lọc theo tên thuốc.
+• Nút: Thêm / Sửa / Xóa / Lưu / Hủy / Đóng.
 
-Cách sử dụng:
-1. Chọn khoảng thời gian cần tra cứu (ví dụ: từ ngày 01 đến ngày 31).
-2. Nếu cần lọc thêm:
-   - Chọn nhân viên lập hóa đơn.
-   - Chọn khách hàng.
-3. Nhấn 'Tìm kiếm'.
-4. Danh sách hóa đơn hiện ra:
-   - Chọn 1 dòng → nhấn nút xem chi tiết (nếu có).
-   - Có thể in hoặc xuất (nếu phần mềm hỗ trợ).
-
-
-VIII. MÀN HÌNH BÁO CÁO TỔNG HỢP
--------------------------------------------------------------------------------
-Thành phần thường gồm nhiều tab hoặc nhiều lựa chọn:
-1. Báo cáo doanh thu:
-   - Chọn năm / tháng.
-   - Bảng liệt kê doanh thu theo thời gian.
-   - Có tổng doanh thu phía dưới.
-   - Có biểu đồ minh họa.
-
-2. Báo cáo tồn kho:
-   - Danh sách thuốc còn tồn, số lượng hiện tại.
-   - Có thể có cột cảnh báo tồn thấp.
-
-3. Thuốc bán chạy:
-   - Danh sách các thuốc bán nhiều nhất trong khoảng thời gian.
-
-4. Nhập hàng:
-   - Thống kê tổng giá trị nhập theo tháng, năm.
-
-5. Khách hàng mua nhiều:
-   - Danh sách khách hàng xếp theo tổng số tiền đã mua.
-
-Cách sử dụng:
-• Chọn loại báo cáo (doanh thu, tồn kho, thuốc bán chạy,...).
-• Chọn điều kiện lọc (năm, tháng, khoảng thời gian).
-• Xem bảng kết quả và biểu đồ.
-
-
-IX. GỢI Ý SỬ DỤNG AN TOÀN
--------------------------------------------------------------------------------
-• Nên phân quyền tài khoản rõ ràng: quản trị / nhân viên.
-• Hạn chế xóa dữ liệu quan trọng (thuốc, khách hàng, hóa đơn).
-• Thường xuyên sao lưu (backup) cơ sở dữ liệu để tránh mất dữ liệu.
-
-
-===================== KẾT THÚC HƯỚNG DẪN CHO NGƯỜI DÙNG =====================
+Quy trình:
+- Thêm: Thêm → nhập → Lưu
+- Sửa: chọn dòng → Sửa → chỉnh → Lưu
+- Xóa: chọn dòng → Xóa → xác nhận
+- Tìm kiếm: gõ tên thuốc để lọc
 ";
+
+            _sections["khachhang"] =
+@"V. MÀN HÌNH QUẢN LÝ KHÁCH HÀNG
+-------------------------------------------------------------------------------
+• Bảng danh sách khách hàng: Mã KH, Họ tên, Giới tính, SĐT, Địa chỉ,...
+• Ô tìm kiếm theo tên hoặc SĐT.
+• Nút: Thêm / Sửa / Xóa / Lưu / Hủy / Đóng.
+";
+
+            _sections["banhang"] =
+@"VI. MÀN HÌNH BÁN HÀNG / HÓA ĐƠN
+-------------------------------------------------------------------------------
+Quy trình bán hàng:
+1) Chọn/nhập khách hàng
+2) Chọn thuốc + nhập số lượng + thêm vào hóa đơn
+3) Kiểm tra chi tiết hóa đơn
+4) Thanh toán (lưu hóa đơn, trừ tồn kho)
+";
+
+            _sections["timkiemhd"] =
+@"VII. MÀN HÌNH TÌM KIẾM HÓA ĐƠN
+-------------------------------------------------------------------------------
+1) Chọn khoảng thời gian cần tra cứu
+2) Chọn điều kiện lọc thêm (nếu có)
+3) Nhấn 'Tìm kiếm'
+4) Xem danh sách hóa đơn, xem chi tiết/in (nếu có)
+";
+
+            _sections["baocao"] =
+@"VIII. MÀN HÌNH BÁO CÁO TỔNG HỢP
+-------------------------------------------------------------------------------
+• Doanh thu
+• Tồn kho
+• Thuốc bán chạy
+• Nhập hàng
+• Khách hàng mua nhiều
+
+Chọn loại báo cáo + điều kiện lọc để xem bảng/biểu đồ.
+";
+
+            _sections["antoan"] =
+@"IX. GỢI Ý SỬ DỤNG AN TOÀN
+-------------------------------------------------------------------------------
+• Phân quyền tài khoản rõ ràng (quản trị/nhân viên)
+• Hạn chế xóa dữ liệu quan trọng
+• Sao lưu dữ liệu định kỳ (backup)
+";
+        }
+
+        private void BuildTree()
+        {
+            tvMucLuc.BeginUpdate();
+            tvMucLuc.Nodes.Clear();
+
+            var root = new TreeNode("HƯỚNG DẪN SỬ DỤNG");
+
+            var n1 = new TreeNode("I. Giới thiệu chung") { Tag = "intro" };
+            var n2 = new TreeNode("II. Đăng nhập") { Tag = "login" };
+            var n3 = new TreeNode("III. Menu chính") { Tag = "mainmenu" };
+
+            var nhomQuanLy = new TreeNode("IV–V. Quản lý");
+            nhomQuanLy.Nodes.Add(new TreeNode("IV. Quản lý thuốc") { Tag = "thuoc" });
+            nhomQuanLy.Nodes.Add(new TreeNode("V. Quản lý khách hàng") { Tag = "khachhang" });
+
+            var nhomNghiepVu = new TreeNode("VI–VII. Nghiệp vụ");
+            nhomNghiepVu.Nodes.Add(new TreeNode("VI. Bán hàng / Hóa đơn") { Tag = "banhang" });
+            nhomNghiepVu.Nodes.Add(new TreeNode("VII. Tìm kiếm hóa đơn") { Tag = "timkiemhd" });
+
+            var nhomBaoCao = new TreeNode("VIII–IX. Báo cáo & An toàn");
+            nhomBaoCao.Nodes.Add(new TreeNode("VIII. Báo cáo tổng hợp") { Tag = "baocao" });
+            nhomBaoCao.Nodes.Add(new TreeNode("IX. Gợi ý sử dụng an toàn") { Tag = "antoan" });
+
+            root.Nodes.AddRange(new[] { n1, n2, n3, nhomQuanLy, nhomNghiepVu, nhomBaoCao });
+
+            tvMucLuc.Nodes.Add(root);
+            tvMucLuc.EndUpdate();
+        }
+
+        private void tvMucLuc_AfterSelect(object sender, TreeViewEventArgs e)
+        {
+            if (e.Node?.Tag is not string key) return;
+            if (!_sections.TryGetValue(key, out var content)) return;
+
+            richTextBox1.Text = content;
+            ResetSearchState();
+        }
+
+        // ===== SEARCH =====
+
+        private void txtSearch_TextChanged(object sender, EventArgs e)
+        {
+            // tìm lại khi thay đổi từ khóa
+            DoSearch(resetIndex: true);
+        }
+
+        private void txtSearch_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                e.SuppressKeyPress = true;
+                GoNext();
+            }
+            else if (e.Control && e.KeyCode == Keys.F)
+            {
+                e.SuppressKeyPress = true;
+                txtSearch.Focus();
+                txtSearch.SelectAll();
+            }
+        }
+
+        private void btnNext_Click(object sender, EventArgs e) => GoNext();
+        private void btnPrev_Click(object sender, EventArgs e) => GoPrev();
+
+        private void ResetSearchState()
+        {
+            _matchPositions.Clear();
+            _matchIndex = -1;
+            _lastSearch = "";
+            lblResult.Text = "";
+            ClearHighlight();
+        }
+
+        private void DoSearch(bool resetIndex)
+        {
+            var term = (txtSearch.Text ?? "").Trim();
+            if (term.Length == 0)
+            {
+                ResetSearchState();
+                return;
+            }
+
+            if (!string.Equals(term, _lastSearch, StringComparison.CurrentCultureIgnoreCase))
+            {
+                _lastSearch = term;
+                RebuildMatches(term);
+                _matchIndex = resetIndex ? -1 : _matchIndex;
+            }
+            else if (resetIndex)
+            {
+                _matchIndex = -1;
+            }
+
+            UpdateResultLabel();
+            // highlight match hiện tại (nếu có) để nhìn rõ
+            if (_matchPositions.Count > 0 && _matchIndex >= 0)
+                SelectMatch(_matchIndex);
+        }
+
+        private void RebuildMatches(string term)
+        {
+            _matchPositions.Clear();
+            ClearHighlight();
+
+            var text = richTextBox1.Text ?? "";
+            int start = 0;
+
+            while (true)
+            {
+                int idx = text.IndexOf(term, start, StringComparison.CurrentCultureIgnoreCase);
+                if (idx < 0) break;
+
+                _matchPositions.Add(idx);
+                start = idx + term.Length;
+            }
+
+            // highlight tất cả match (nhẹ, vì text không quá dài)
+            HighlightAll(term);
+        }
+
+        private void HighlightAll(string term)
+        {
+            if (_matchPositions.Count == 0) return;
+
+            int oldStart = richTextBox1.SelectionStart;
+            int oldLen = richTextBox1.SelectionLength;
+
+            for (int i = 0; i < _matchPositions.Count; i++)
+            {
+                richTextBox1.Select(_matchPositions[i], term.Length);
+                richTextBox1.SelectionBackColor = Color.Khaki;
+            }
+
+            richTextBox1.Select(oldStart, oldLen);
+            richTextBox1.SelectionBackColor = richTextBox1.BackColor;
+        }
+
+        private void ClearHighlight()
+        {
+            int oldStart = richTextBox1.SelectionStart;
+            int oldLen = richTextBox1.SelectionLength;
+
+            richTextBox1.SelectAll();
+            richTextBox1.SelectionBackColor = richTextBox1.BackColor;
+
+            richTextBox1.Select(oldStart, oldLen);
+        }
+
+        private void GoNext()
+        {
+            DoSearch(resetIndex: false);
+            if (_matchPositions.Count == 0) return;
+
+            _matchIndex++;
+            if (_matchIndex >= _matchPositions.Count) _matchIndex = 0;
+
+            SelectMatch(_matchIndex);
+            UpdateResultLabel();
+        }
+
+        private void GoPrev()
+        {
+            DoSearch(resetIndex: false);
+            if (_matchPositions.Count == 0) return;
+
+            _matchIndex--;
+            if (_matchIndex < 0) _matchIndex = _matchPositions.Count - 1;
+
+            SelectMatch(_matchIndex);
+            UpdateResultLabel();
+        }
+
+        private void SelectMatch(int index)
+        {
+            var term = _lastSearch;
+            if (term.Length == 0) return;
+            if (index < 0 || index >= _matchPositions.Count) return;
+
+            int pos = _matchPositions[index];
+            richTextBox1.Focus();
+            richTextBox1.Select(pos, term.Length);
+            richTextBox1.ScrollToCaret();
+        }
+
+        private void UpdateResultLabel()
+        {
+            if (_lastSearch.Length == 0)
+            {
+                lblResult.Text = "";
+                return;
+            }
+
+            if (_matchPositions.Count == 0)
+            {
+                lblResult.Text = "0/0";
+                return;
+            }
+
+            // hiển thị theo kiểu 1/5, 2/5...
+            int current = (_matchIndex >= 0 ? _matchIndex + 1 : 0);
+            lblResult.Text = $"{current}/{_matchPositions.Count}";
         }
     }
 }

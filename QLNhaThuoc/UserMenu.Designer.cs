@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+
             components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(UserMenu));
             pictureBox1 = new PictureBox();
@@ -45,7 +46,9 @@
             toolStripMenuItem6 = new ToolStripMenuItem();
             báoCáoToolStripMenuItem = new ToolStripMenuItem();
             càiĐặtToolStripMenuItem = new ToolStripMenuItem();
+            hdsdToolStripMenuItem = new ToolStripMenuItem();
             label2 = new Label();
+
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             menuStrip2.SuspendLayout();
             SuspendLayout();
@@ -158,6 +161,25 @@
             càiĐặtToolStripMenuItem.Name = "càiĐặtToolStripMenuItem";
             càiĐặtToolStripMenuItem.Size = new Size(72, 24);
             càiĐặtToolStripMenuItem.Text = "Cài Đặt";
+
+
+
+            // 
+            // hdsdToolStripMenuItem
+            // 
+            hdsdToolStripMenuItem.Name = "hdsdToolStripMenuItem";
+            hdsdToolStripMenuItem.Size = new Size(180, 26);
+            hdsdToolStripMenuItem.Text = "HDSD";
+            hdsdToolStripMenuItem.Click += hdsdToolStripMenuItem_Click;
+
+            // gắn HDSD làm con của Cài Đặt
+            càiĐặtToolStripMenuItem.DropDownItems.Add(hdsdToolStripMenuItem);
+
+
+
+
+
+
             // 
             // label2
             // 
@@ -198,6 +220,7 @@
         private ContextMenuStrip contextMenuStrip2;
         private MenuStrip menuStrip2;
         private Label label2;
+        private ToolStripMenuItem hdsdToolStripMenuItem;
         private ToolStripMenuItem hệThốngToolStripMenuItem;
         private ToolStripMenuItem danhMụcToolStripMenuItem;
         private ToolStripMenuItem nghiệpVụToolStripMenuItem;

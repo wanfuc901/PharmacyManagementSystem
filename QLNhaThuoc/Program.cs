@@ -16,7 +16,7 @@ namespace QL_NhaThuoc
         {
             ApplicationConfiguration.Initialize(); // cấu hình mặc định cho WinForms
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Login()); // Form khởi động
+            Application.Run(new UserMenu()); // Form khởi động
         }
     }
 }

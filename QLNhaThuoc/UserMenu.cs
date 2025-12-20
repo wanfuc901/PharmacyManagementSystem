@@ -149,6 +149,12 @@ namespace QLNhaThuoc
             HoaDon f = new HoaDon();
             f.ShowDialog();
         }
+        private void hdsdToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+          frmHuongDan f = new frmHuongDan();
+            f.ShowDialog();
+        }
+
 
         private void toolStripMenuItem6_Click(object sender, EventArgs e)
         {
