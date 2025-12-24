@@ -167,5 +167,21 @@ namespace QL_NhaThuoc
         {
 
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            if (dgvPhieuNhap.CurrentRow == null)
+            {
+                MessageBox.Show("Vui lòng chọn một phiếu nhập!");
+                return;
+            }
+
+            int maPN = Convert.ToInt32(
+                dgvPhieuNhap.CurrentRow.Cells["mapn"].Value
+            );
+
+            CT_PhieuNhap f = new CT_PhieuNhap(maPN);
+            f.ShowDialog();
+        }
     }
 }

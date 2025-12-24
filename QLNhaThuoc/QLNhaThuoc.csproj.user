@@ -10,6 +10,12 @@
     <Compile Update="AdminMenu.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="CT_PhieuNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CT_PhieuTra.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="frmBaoCaoTongHop.cs">
       <SubType>Form</SubType>
     </Compile>

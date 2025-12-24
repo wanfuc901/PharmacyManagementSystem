@@ -19,6 +19,7 @@ namespace QL_NhaThuoc
 
         private void HoaDon_Load(object sender, EventArgs e)
         {
+            txtTongTien.Visible = false;
             dataGridView1.Dock = DockStyle.Fill;
             dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             dataGridView1.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells;
@@ -30,6 +31,11 @@ namespace QL_NhaThuoc
             this.MaximizeBox = false;
             this.MinimizeBox = false;           // tùy chọn
             this.AutoSizeMode = AutoSizeMode.GrowAndShrink; // chặn “kéo giãn”
+
+            // 👇 thêm
+            this.Width = 900;
+            this.Height = 1000;
+
             LoadHoaDon();
             dtpNgayLap.Format = DateTimePickerFormat.Custom;
             dtpNgayLap.CustomFormat = "dd/MM/yyyy HH:mm:ss";
@@ -58,6 +64,11 @@ namespace QL_NhaThuoc
         private void LoadHoaDon()
         {
             dataGridView1.DataSource = HoaDonBUS.GetAll();
+
+            if (dataGridView1.Columns.Contains("TongTien"))
+            {
+                dataGridView1.Columns["TongTien"].Visible = false;
+            }
         }
 
 

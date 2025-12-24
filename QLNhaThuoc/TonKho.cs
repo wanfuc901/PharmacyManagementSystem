@@ -11,7 +11,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace QL_NhaThuoc
+namespace QLNhaThuoc
 {
     public partial class TonKho : Form
     {

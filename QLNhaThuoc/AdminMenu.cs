@@ -155,5 +155,13 @@ namespace QLNhaThuoc
             TaiKhoan f = new TaiKhoan();
             f.ShowDialog();
         }
+        private void khoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            new TonKho().ShowDialog();   // FORM QUẢN LÝ KHO
+        }
+
+
+
+
     }
 }

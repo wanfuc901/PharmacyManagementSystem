@@ -37,6 +37,7 @@
             menuStrip2 = new MenuStrip();
             hệThốngToolStripMenuItem = new ToolStripMenuItem();
             toolStripMenuItem1 = new ToolStripMenuItem();
+            đăngXuấtToolStripMenuItem = new ToolStripMenuItem();
             danhMụcToolStripMenuItem = new ToolStripMenuItem();
             toolStripMenuItem2 = new ToolStripMenuItem();
             toolStripMenuItem3 = new ToolStripMenuItem();
@@ -89,11 +90,17 @@
             // 
             // hệThốngToolStripMenuItem
             // 
-            hệThốngToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { toolStripMenuItem1 });
+            hệThốngToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { toolStripMenuItem1 }); hệThốngToolStripMenuItem.DropDownItems.AddRange(
+    new ToolStripItem[] { toolStripMenuItem1, đăngXuấtToolStripMenuItem }
+);
+
+
             hệThốngToolStripMenuItem.Name = "hệThốngToolStripMenuItem";
             hệThốngToolStripMenuItem.Size = new Size(88, 24);
             hệThốngToolStripMenuItem.Text = "Hệ Thống";
             hệThốngToolStripMenuItem.Click += hệThốngToolStripMenuItem_Click;
+            
+
             // 
             // toolStripMenuItem1
             // 
@@ -102,6 +109,14 @@
             toolStripMenuItem1.Text = "Đổi Mật Khẩu";
             toolStripMenuItem1.Click += toolStripMenuItem1_Click_1;
             // 
+
+            // đăngXuấtToolStripMenuItem
+            đăngXuấtToolStripMenuItem.Name = "đăngXuấtToolStripMenuItem";
+            đăngXuấtToolStripMenuItem.Size = new Size(183, 26);
+            đăngXuấtToolStripMenuItem.Text = "Đăng Xuất";
+            đăngXuấtToolStripMenuItem.Click += đăngXuấtToolStripMenuItem_Click;
+
+
             // danhMụcToolStripMenuItem
             // 
             danhMụcToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { toolStripMenuItem2, toolStripMenuItem3, toolStripMenuItem4 });
@@ -128,6 +143,7 @@
             toolStripMenuItem4.Name = "toolStripMenuItem4";
             toolStripMenuItem4.Size = new Size(187, 26);
             toolStripMenuItem4.Text = "Tồn Kho";
+            toolStripMenuItem4.Click += toolStripMenuItem4_Click;
             // 
             // nghiệpVụToolStripMenuItem
             // 
@@ -142,12 +158,14 @@
             toolStripMenuItem5.Name = "toolStripMenuItem5";
             toolStripMenuItem5.Size = new Size(155, 26);
             toolStripMenuItem5.Text = "Hóa Đơn";
+            toolStripMenuItem5.Click += toolStripMenuItem5_Click_1;
             // 
             // toolStripMenuItem6
             // 
             toolStripMenuItem6.Name = "toolStripMenuItem6";
             toolStripMenuItem6.Size = new Size(155, 26);
             toolStripMenuItem6.Text = "Tìm Kiếm";
+            toolStripMenuItem6.Click += toolStripMenuItem6_Click;
             // 
             // báoCáoToolStripMenuItem
             // 
@@ -232,5 +250,6 @@
         private ToolStripMenuItem toolStripMenuItem4;
         private ToolStripMenuItem toolStripMenuItem5;
         private ToolStripMenuItem toolStripMenuItem6;
+        private ToolStripMenuItem đăngXuấtToolStripMenuItem;
     }
 }

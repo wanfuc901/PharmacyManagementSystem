@@ -282,12 +282,20 @@ namespace QLNhaThuoc
 
                 g.DrawString($"Ngày: {DateTime.Now:dd/MM/yyyy HH:mm}", f9, XBrushes.Black, 15, y);
                 y += 12;
+                g.DrawString($"Ca: {GetCaHienTai()}", f9, XBrushes.Black, 15, y);
+                y += 12;
+
+                g.DrawString($"Nhân viên: {Program.TenDangNhap}", f9, XBrushes.Black, 15, y);
+                y += 12;
+
+                g.DrawString($"Thanh toán: Tiền mặt", f9, XBrushes.Black, 15, y);
+                y += 12;
                 g.DrawString($"Khách hàng: {txtHoTen.Text}", f9, XBrushes.Black, 15, y);
                 y += 12;
                 g.DrawString($"SĐT: {txtSDT.Text}", f9, XBrushes.Black, 15, y);
                 y += 15;
 
-                
+
                 y += 8;
 
                 // ===== BẢNG SẢN PHẨM =====
@@ -396,9 +404,11 @@ namespace QLNhaThuoc
             {
                 TradeDTO hd = new TradeDTO
                 {
-                    MaKH = _maKH // ⭐ TRUYỀN MÃ KH
+                    MaKH = _maKH,
+                    Ca = GetCaHienTai(),
+                    NhanVien = Program.TenDangNhap, // hoặc user login
+                    ThanhToan = "Tiền mặt"          // hoặc lấy từ RadioButton
                 };
-
                 int mahd = TradeBUS.ThanhToan(hd, gioHang.ToList());
                 MessageBox.Show("Thanh toán thành công. Mã HĐ: " + mahd);
 
@@ -475,8 +485,21 @@ namespace QLNhaThuoc
             // Ẩn cột không cần nếu muốn
             if (dgvThuoc.Columns.Contains("ghichu")) dgvThuoc.Columns["ghichu"].Visible = false;
         }
+        private string GetCaHienTai()
+        {
+            int h = DateTime.Now.Hour;
+            if (h < 12) return "Sáng";
+            if (h < 18) return "Chiều";
+            return "Tối";
+        }
+
 
         private void txtGhiChu_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
         {
 
         }

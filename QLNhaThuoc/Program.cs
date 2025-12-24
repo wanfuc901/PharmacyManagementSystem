@@ -2,21 +2,15 @@
 using System;
 using System.Windows.Forms;
 
-namespace QL_NhaThuoc
+public static class Program   // ❗ KHÔNG namespace
 {
-    internal static class Program
+    public static string QuyenNguoiDung = "";
+    public static string TenDangNhap = "";
+
+    [STAThread]
+    public static void Main()
     {
-        public static string QuyenNguoiDung = "";
-        public static string TenDangNhap = "";
-        /// <summary>
-        /// Điểm bắt đầu của ứng dụng
-        /// </summary>
-        [STAThread]
-        static void Main()
-        {
-            ApplicationConfiguration.Initialize(); // cấu hình mặc định cho WinForms
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new UserMenu()); // Form khởi động
-        }
+        ApplicationConfiguration.Initialize();
+        Application.Run(new UserMenu()); // form đăng nhập
     }
 }

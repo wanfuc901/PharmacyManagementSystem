@@ -128,5 +128,21 @@ namespace QLNhaThuoc
             dgvPhieuTra.DataSource = dt;
             lblTong.Text = "Kết quả: " + dt.Rows.Count + " phiếu";
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (dgvPhieuTra.CurrentRow == null)
+            {
+                MessageBox.Show("Vui lòng chọn một phiếu trả!");
+                return;
+            }
+
+            int maTra = Convert.ToInt32(
+                dgvPhieuTra.CurrentRow.Cells["matra"].Value
+            );
+
+            CT_PhieuTra f = new CT_PhieuTra(maTra);
+            f.ShowDialog();
+        }
     }
 }

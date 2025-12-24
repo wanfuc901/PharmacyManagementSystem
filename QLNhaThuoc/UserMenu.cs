@@ -159,6 +159,7 @@ namespace QLNhaThuoc
         private void toolStripMenuItem6_Click(object sender, EventArgs e)
         {
             Search_Report f = new Search_Report();
+            f.ShowDialog();
         }
     }
 }

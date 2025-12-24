@@ -9,6 +9,9 @@ namespace DTO
  
         public class TradeDTO
     {
+        public string Ca { get; set; } = "";
+        public string NhanVien { get; set; } = "";
+        public string ThanhToan { get; set; } = "";
         public int MaHD { get; set; }
         public int? MaKH { get; set; }
         public int MaThuoc { get; set; }

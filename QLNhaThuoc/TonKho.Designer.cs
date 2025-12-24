@@ -1,4 +1,4 @@
-﻿namespace QL_NhaThuoc
+﻿namespace QLNhaThuoc
 {
     partial class TonKho
     {

@@ -25,12 +25,13 @@
             menuStrip2 = new MenuStrip();
             hệThốngToolStripMenuItem = new ToolStripMenuItem();
             đăngXuấtToolStripMenuItem = new ToolStripMenuItem();
-            toolStripTextBox1 = new ToolStripTextBox();
+            doiMatKhauToolStripMenuItem = new ToolStripMenuItem();
             thoátToolStripMenuItem = new ToolStripMenuItem();
             danhMụcToolStripMenuItem = new ToolStripMenuItem();
             kháchHàngToolStripMenuItem = new ToolStripMenuItem();
             nhàCungCấpToolStripMenuItem = new ToolStripMenuItem();
-            toolStripTextBox2 = new ToolStripTextBox();
+            khoToolStripMenuItem = new ToolStripMenuItem();
+            hoaDonToolStripMenuItem = new ToolStripMenuItem();
             tàiKhoảnToolStripMenuItem = new ToolStripMenuItem();
             càiDDToolStripMenuItem = new ToolStripMenuItem();
             phiếuNhậpToolStripMenuItem = new ToolStripMenuItem();
@@ -80,7 +81,7 @@
             // 
             // hệThốngToolStripMenuItem
             // 
-            hệThốngToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { đăngXuấtToolStripMenuItem, toolStripTextBox1, thoátToolStripMenuItem });
+            hệThốngToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { đăngXuấtToolStripMenuItem, doiMatKhauToolStripMenuItem, thoátToolStripMenuItem });
             hệThốngToolStripMenuItem.Name = "hệThốngToolStripMenuItem";
             hệThốngToolStripMenuItem.Size = new Size(88, 24);
             hệThốngToolStripMenuItem.Text = "Hệ Thống";
@@ -94,10 +95,8 @@
             // 
             // toolStripTextBox1
             // 
-            toolStripTextBox1.Name = "toolStripTextBox1";
-            toolStripTextBox1.Size = new Size(100, 27);
-            toolStripTextBox1.Text = "Đổi Mật Khẩu";
-            toolStripTextBox1.Click += toolStripTextBox1_Click;
+            doiMatKhauToolStripMenuItem.Text = "Đổi Mật Khẩu";
+            doiMatKhauToolStripMenuItem.Click += toolStripTextBox1_Click;
             // 
             // thoátToolStripMenuItem
             // 
@@ -108,7 +107,7 @@
             // 
             // danhMụcToolStripMenuItem
             // 
-            danhMụcToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { kháchHàngToolStripMenuItem, nhàCungCấpToolStripMenuItem, toolStripTextBox2, tàiKhoảnToolStripMenuItem });
+            danhMụcToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { khoToolStripMenuItem, kháchHàngToolStripMenuItem, nhàCungCấpToolStripMenuItem, hoaDonToolStripMenuItem, tàiKhoảnToolStripMenuItem });
             danhMụcToolStripMenuItem.Name = "danhMụcToolStripMenuItem";
             danhMụcToolStripMenuItem.Size = new Size(90, 24);
             danhMụcToolStripMenuItem.Text = "Danh Mục";
@@ -127,12 +126,17 @@
             nhàCungCấpToolStripMenuItem.Text = "Nhà Cung Cấp";
             nhàCungCấpToolStripMenuItem.Click += nhàCungCấpToolStripMenuItem_Click_1;
             // 
+
+            // khoToolStripMenuItem
+            khoToolStripMenuItem.Name = "khoToolStripMenuItem";
+            khoToolStripMenuItem.Size = new Size(187, 26);
+            khoToolStripMenuItem.Text = "Kho";
+            khoToolStripMenuItem.Click += khoToolStripMenuItem_Click;
+
             // toolStripTextBox2
             // 
-            toolStripTextBox2.Name = "toolStripTextBox2";
-            toolStripTextBox2.Size = new Size(100, 27);
-            toolStripTextBox2.Text = "Hóa Đơn";
-            toolStripTextBox2.Click += toolStripTextBox2_Click;
+            hoaDonToolStripMenuItem.Text = "Hóa Đơn";
+            hoaDonToolStripMenuItem.Click += toolStripTextBox2_Click;
             // 
             // tàiKhoảnToolStripMenuItem
             // 
@@ -245,13 +249,14 @@
         private ToolStripMenuItem báoCáoToolStripMenuItem;
         private ToolStripMenuItem càiDDToolStripMenuItem;
         private ToolStripMenuItem càiĐặToolStripMenuItem;
-        private ToolStripTextBox toolStripTextBox1;
+        private ToolStripMenuItem doiMatKhauToolStripMenuItem;
         private ToolStripMenuItem phiếuNhậpToolStripMenuItem;
         private ToolStripMenuItem danhMụcToolStripMenuItem;
         private ToolStripMenuItem kháchHàngToolStripMenuItem;
         private ToolStripMenuItem nhàCungCấpToolStripMenuItem;
+        private ToolStripMenuItem khoToolStripMenuItem;
         private ToolStripMenuItem tàiKhoảnToolStripMenuItem;
-        private ToolStripTextBox toolStripTextBox2;
+        private ToolStripMenuItem hoaDonToolStripMenuItem;
         private ToolStripMenuItem phiếuTrảToolStripMenuItem;
         private ToolStripMenuItem tồnKhoToolStripMenuItem;
         private ToolStripMenuItem doanhThuToolStripMenuItem;

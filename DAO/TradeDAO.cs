@@ -9,9 +9,9 @@ namespace DAO
     {
         public static int TaoHoaDon(TradeDTO trade, List<TradeDTO> chiTiet)
         {
-            string sqlHD = @"INSERT INTO hoadon(ngaylap, makh, tongtien)
+            string sqlHD = @"INSERT INTO hoadon(ngaylap, makh, tongtien, ca, nhanvien, thanhtoan)
                              OUTPUT INSERTED.mahd
-                             VALUES(@ngaylap, @makh, @tong)";
+                             VALUES(@ngaylap, @makh, @tong, @ca, @nv, @tt)";
 
             decimal tongTien = 0;
             foreach (var ct in chiTiet)
@@ -23,6 +23,10 @@ namespace DAO
                 cmd.Parameters.AddWithValue("@ngaylap", trade.NgayLap);
                 cmd.Parameters.AddWithValue("@makh", (object)trade.MaKH ?? DBNull.Value);
                 cmd.Parameters.AddWithValue("@tong", tongTien);
+                cmd.Parameters.AddWithValue("@ca", trade.Ca);
+                cmd.Parameters.AddWithValue("@nv", trade.NhanVien);
+                cmd.Parameters.AddWithValue("@tt", trade.ThanhToan);
+
 
                 int mahd = (int)cmd.ExecuteScalar();
 

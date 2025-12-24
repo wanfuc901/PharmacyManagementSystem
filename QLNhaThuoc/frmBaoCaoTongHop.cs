@@ -141,7 +141,14 @@ namespace QLNhaThuoc
 
             Label l1 = new Label { Text = "Ca:", Left = 10, Top = 10 };
             cbCa = new ComboBox { Left = 80, Top = 8, Width = 120 };
-            cbCa.Items.AddRange(new string[] { "Tất cả", "Ca sáng", "Ca chiều", "Ca tối" });
+            cbCa.Items.AddRange(new string[]
+{
+    "Tất cả",
+    "Sáng",
+    "Chiều",
+    "Tối"
+});
+
             cbCa.SelectedIndex = 0;
             AttachAutoReload(cbCa);
 
