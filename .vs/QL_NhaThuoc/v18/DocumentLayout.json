@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|solutionrelative:qlnhathuoc\\frmhuongdan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|d:\\studies\\doanxd_pm_hdt\\pharmacymanagementsystem\\qlnhathuoc\\frmhuongdan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\qlnhathuoc\\frmhuongdan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9CE74689-A99B-46CE-8271-478C96302F49}|QLNhaThuoc\\QLNhaThuoc.csproj|solutionrelative:qlnhathuoc\\frmhuongdan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -138,8 +138,7 @@
               "RelativeToolTip": "QLNhaThuoc\\frmHuongDan.Designer.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAD4vzMAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T11:34:35.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-20T11:34:35.678Z"
             },
             {
               "$type": "Document",
@@ -149,7 +148,7 @@
               "RelativeDocumentMoniker": "QLNhaThuoc\\frmHuongDan.cs",
               "ToolTip": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\frmHuongDan.cs",
               "RelativeToolTip": "QLNhaThuoc\\frmHuongDan.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAIwDIAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAxwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-20T11:34:02.286Z",
               "EditorCaption": ""
@@ -164,8 +163,7 @@
               "RelativeToolTip": "QLNhaThuoc\\UserMenu.Designer.cs",
               "ViewState": "AgIAAJ8AAAAAAAAAAAD4v6YAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T11:28:26.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-20T11:28:26.887Z"
             },
             {
               "$type": "Document",
@@ -176,8 +174,7 @@
               "ToolTip": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\frmHuongDan.cs [Design]",
               "RelativeToolTip": "QLNhaThuoc\\frmHuongDan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T11:27:10.987Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-20T11:27:10.987Z"
             },
             {
               "$type": "Document",
@@ -189,8 +186,7 @@
               "RelativeToolTip": "DAO\\BaoCaoDAO.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAADwv1sAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T07:52:43.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T07:52:43.214Z"
             },
             {
               "$type": "Document",
@@ -227,8 +223,7 @@
               "ToolTip": "D:\\STUDIES\\DoAnXD_PM_HDT\\PharmacyManagementSystem\\QLNhaThuoc\\UserMenu.cs [Design]",
               "RelativeToolTip": "QLNhaThuoc\\UserMenu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T13:17:48.95Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-06T13:17:48.95Z"
             },
             {
               "$type": "Document",
@@ -240,8 +235,7 @@
               "RelativeToolTip": "QLNhaThuoc\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T13:44:03.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T13:44:03.666Z"
             },
             {
               "$type": "Document",
